@@ -1,0 +1,837 @@
+
+html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    direction: ltr; /*sayfamız soldan sağa */
+    overflow: hidden;/*yatay bir kaydırma çubuğu olmasın*/
+    overflow-y:scroll;
+}
+body{
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    border:none;
+    outline:none;
+    background-color:#fff ;
+    font-family:"Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    line-height:1.5;/*satır yüksekliği*/
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    text-align:center;
+    text-decoration:none;
+}
+/*Font boyutları responsive şeklinde verilir @media responsive tasarımlar için*/
+@media only screen and (min-width:1200px){/*XL 1200px*/
+    body{
+        font-size: 14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){/*L  992px*/
+    body{
+        font-size:13px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){/*M 768px*/
+    body{
+        font-size:12px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){/*S 576px*/
+    body{
+        font-size:12px;
+    }
+}
+@media only screen and (max-width:575px){/*XS 575px*/
+    body{
+        font-size:12px;
+    }
+}/**/
+#TumSayfaAlani{
+    position:relative;/*göreceli sayfa kaysa dahi yerinde kalsın diye*/
+    width: 100%;
+    min-width:100%;
+    max-width:100%;
+    height:100%;
+    min-height:100%;
+    max-height:100%;
+    margin:0 auto;/*üstten alttan sıfır sağdan soldan otomatik*/ 
+    padding:0;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    border:none;
+    outline:none;
+    background-color:#fff;
+}
+#HeaderAlani{
+    position: fixed;/*Kutunun hep üstte kalmasını bununla ayarlıyoruz*/
+    display:block;/*Yanına hiç bir şey gelemiyecek*/
+    z-index:99;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:auto;
+    padding:0;
+    top:0;
+    left:0;
+    border:none;
+    outline:none;
+    background-color: #fff;
+    text-align:center;/*Yazıları ortalamaya yarar resimleri de ortalar sıkıntı çıkmasın diye*/
+}
+div#HeaderMesajAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+    background-color:#353745;
+    vertical-align:center;/*özelliği , bir etiketin dikey hizalamasını ayarlar*/
+    text-align:center;
+}/**/
+@media only screen and (min-width:1200px){
+        div#HeaderMesajAlani {
+                height:40px;
+                min-height:40px;
+                max-height:40px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+        div#HeaderMesajAlani{
+            height:40px;
+            min-height:40px;
+            max-height:40px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    div#HeaderMesajAlani{
+        height:30px;
+        min-height:30px;
+        max-height:30px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    div#HeaderMesajAlani{
+        height:30px;
+        min-height:30px;
+        max-height:30px;
+    }
+}
+@media only screen and (max-width:575px){
+    div#HeaderMesajAlani{
+        height:25px;
+        min-height:25px;
+        max-height:25px;
+    }
+}
+#HeaderMesajAlani img{
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+}
+@media only screen and (min-width:1200px){
+    #HeaderMesajAlani img#HeaderMesajResmi1175x40{
+        display:block;
+        width:1175px;
+        min-width:1175px;
+        max-width:1175px;
+        height:40px;
+        min-height:40px;
+        max-height:40px;/**/
+    }
+    #HeaderMesajAlani img#HeaderMesajResmi965x40{
+        display:none;/*Gizlemek için bu değeri kullanıyoruz*/
+    }
+    #HeaderMesajAlani img#HeaderMesajResmi740x30{
+        display:none;
+    }
+    #HeaderMesajAlani img#HeaderMesajResmi500x30{
+        display:none;
+    }
+    #HeaderMesajAlani img#HeaderMesajResmi295x25{
+        display:none;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+   #HeaderMesajAlani img#HeaderMesajResmi965x40{
+        display:block;
+        width:965px;
+        min-width:965px;
+        max-width:965px;
+        height:40px;
+        min-height:40px;
+        max-height:40px;/**/
+    }
+    #HeaderMesajAlani img#HeaderMesajResmi1175x40{
+        display:none;/*Gizlemek için bu değeri kullanıyoruz*/
+    }
+    #HeaderMesajAlani img#HeaderMesajResmi740x30{
+        display:none;
+    }
+    #HeaderMesajAlani img#HeaderMesajResmi500x30{
+        display:none;
+    }
+    #HeaderMesajAlani img#HeaderMesajResmi295x25{
+        display:none;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    #HeaderMesajAlani img#HeaderMesajResmi740x30{
+        display:block;
+        width:740px;
+        min-width:740px;
+        max-width:740px;
+        height:30px;
+        min-height:30px;
+        max-height:30px;
+    }
+     #HeaderMesajAlani img#HeaderMesajResmi1175x40{
+        display:none;
+     }
+        #HeaderMesajAlani img#HeaderMesajResmi965x40{
+            display:none;
+        }
+        #HeaderMesajAlani img#HeaderMesajResmi500x30{
+            display:none;
+        }
+        #HeaderMesajAlani img#HeaderMesajResmi295x25{
+            display:none;
+        }
+}
+@media only screen and (min-width:576px) and (max-width: 767px){
+      #HeaderMesajAlani img#HeaderMesajResmi500x30{
+        display:block;
+        width:500px;
+        min-width:500px;
+        max-width:500px;
+        height:30px;
+        min-height:30px;
+        max-height:30px;
+      }
+        #HeaderMesajAlani img#HeaderMesajResmi1175x40{
+            display:none;
+        }
+        #HeaderMesajAlani img#HeaderMesajResmi965x40{
+            display:none;
+        }
+        #HeaderMesajAlani img#HeaderMesajResmi740x30{
+            display:none;
+        }
+        #HeaderMesajAlani img#HeaderMesajResmi295x25{
+            display:none;
+        }
+}
+@media only screen and (max-width:575px){
+        #HeaderMesajAlani img#HeaderMesajResmi295x25{
+            display:block;
+            width:295px;
+            min-width:295px;
+            max-width:295px;
+            height:25px;
+            min-height:25px;
+            max-height:25px;
+        }
+        #HeaderMesajAlani img#HeaderMesajResmi1175x40{
+            display:none;
+        }
+        #HeaderMesajAlani img#HeaderMesajResmi965x40{
+            display:none;
+        }
+         #HeaderMesajAlani img#HeaderMesajResmi740x30{
+            display:none;
+         }
+         #HeaderMesajAlani img#HeaderMesajResmi500x30{
+            display:none;
+         }
+}
+#HeaderMenuAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    border-bottom:1px solid #ccc;
+    outline:none;
+    vertical-align:top;/* Dikey Hizalama */
+    text-align:center;
+}
+#HeaderMenuUstuAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100;
+    height:30px;
+    min-height:30px;
+    max-height:30px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#08c;
+    vertical-align:top;
+    text-align:center;
+}
+#HeaderMenuUstuSinirlamaAlani{
+    display:block;
+    height:30px;
+    min-height:30px;
+    max-height:30px;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    overflow:hidden;
+    outline:none;
+    background-color:#08c;
+    vertical-align:middle;
+    text-align:center;
+}
+@media only screen and (min-width:1200px){
+    div#HeaderMenuUstuSinirlamaAlani{
+        width:1175px;
+        min-width:1175px;
+        max-width:1175px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #HeaderMenuUstuSinirlamaAlani{
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    div#HeaderMenuUstuSinirlamaAlani{
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:765px){
+    div#HeaderMenuUstuSinirlamaAlani{
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+    }
+}
+@media only screen and (max-width:575px){
+    div#HeaderMenuUstuSinirlamaAlani{
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+    }
+}
+ul#HeaderMenuUstuSeceneklerAlani{
+    display:inline-block;
+    list-style:none;
+    float:right;
+    height: 30px;
+    min-height:30px;
+    max-height:30px;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+    text-align:left;
+}
+.HeaderMenuSecenekleri{
+    display:inline-block;
+    float:left;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding-top:5px;
+    padding-right:5px;
+    border:none;
+    outline:none;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#fff;
+    font-size:12px;
+    font-style:normal;
+    line-height:1.5;
+    text-align:left;
+    text-decoration:none;
+}
+.HeaderMenuSecenekleri a{
+     font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#fff;
+    font-size:12px;
+    font-style:normal;
+    line-height:1.5;
+    text-align:left;
+    text-decoration:none;
+}
+.HeaderMenuSecenekleri a:link, .HeaderMenuSecenekleri a:active, .HeaderMenuSecenekleri a:visited{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#fff;
+    font-size:12px;
+    font-style:normal;
+    line-height:1.5;
+    text-align:left;
+    text-decoration:none;
+}
+.HeaderMenuSecenekleri a:hover{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#ff0;
+    font-size:12px;
+    font-style:normal;
+    line-height:1.5;
+    text-align:left;
+    text-decoration:none;
+}
+.HeaderMenuSecenekleri img{
+    display:block;
+    width:16px;
+    min-width:16px;
+    max-width:16px;
+    height:16px;
+    min-height:16px;
+    max-height:16px;
+    margin:0 auto;
+    padding:0;
+    padding-top:1px;
+    border:none;
+    outline:none;
+}
+#HeaderMenuSinirlandirmaAlani{
+    display:block;
+    height:35px;
+    min-height:35px;
+    max-height:35px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    border-bottom:1px solid #646464;
+    outline:none;
+    vertical-align:middle;
+    background-color:#fff;
+    text-align:center;
+}
+@media only screen and (min-width:1200px){
+    #HeaderMenuSinirlandirmaAlani{
+        width:1175px;
+        min-width:1175px;
+        max-width:1175px;
+        padding-top:20px;
+        padding-bottom:20px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+     #HeaderMenuSinirlandirmaAlani{
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+        padding-top:15px;
+        padding-bottom:15px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+         #HeaderMenuSinirlandirmaAlani{
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+         #HeaderMenuSinirlandirmaAlani{
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+        padding-top:5px;
+        padding-bottom:5px;
+    }
+}
+@media only screen and (max-width:575px){
+         #HeaderMenuSinirlandirmaAlani{
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+        padding-top:5px;
+        padding-bottom:5px;
+    }
+}
+#HeaderMenuLogoAlani{
+    display:inline-block;
+    float:left;
+    width:195px;
+    min-width:195px;
+    max-width:195px;
+    height:35px;
+    min-height:35px;
+    max-height:35px;
+    margin:0 auto;
+    padding:0;
+    padding-left:5px;
+    border:none;
+    outline:none;
+    vertical-align:middle;
+    text-align:center;
+}
+#HeaderMenuLogoAlani img{
+    display:block;
+    width:192px;
+    min-width:192px;
+    max-width:192px;
+    height:35px;
+    min-height:35px;
+    max-height:35px;
+    margin:0 auto;
+    border:none;
+    outline:none;
+}
+#HeaderMenuNavAlani{
+    display:inline-block;
+    float:right;
+    width:-webkit-calc(100%-235px);/* Calc fonksiyonlarına bak */
+    width:-moz-calc(100%-235px);
+    width:-o-calc(100%-235px);
+    width:-ms-calc(100%-235px);
+    width:calc(100%-235px);
+    min-width:-webkit-calc(100%-235px);
+    min-width:-moz-calc(100%-235px);
+    min-width:-o-calc(100%-235px);
+    min-width:-ms-calc(100%-235px);
+    min-width:calc(100%-235px);
+    max-width:-webkit-calc(100%-235px);
+    max-width:-moz-calc(100%-235px);
+    max-width:-o-calc(100%-235px);
+    max-width:-ms-calc(100%-235px);
+    max-width:calc(100%-235px);
+    height:35px;
+    min-height:35px;
+    max-height:35px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    vertical-align:middle;
+    text-align:right;
+}
+#HeaderMenuNav{
+    float:right;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:35px;
+    min-height:35px;
+    max-height:35px;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline: none;
+    background-color:#fff;
+    vertical-align:middle;
+    text-align:left;
+}
+@media only screen and (min-width:1200px){
+    #HeaderMenuNav{
+        display: block;
+    }
+}
+@media only screen and (max-width:767px) {
+    #HeaderMenuNav{
+        display:none;
+    }
+}
+#HeaderMenuSeceneklerAlani{
+    display:inline-block;
+    float:right;
+    list-style: none;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+    text-align:left;
+}
+@media only screen and (min-width:1200px) {
+    #HeaderMenuSeceneklerAlani{
+        padding:8px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #HeaderMenuSeceneklerAlani{
+        padding:9px;
+    }
+}
+@media only screen and (max-width:991px){
+    #HeaderMenuSeceneklerAlani{
+        padding:10px;
+    }
+}
+li.HeaderMenuAltiSecenekleri{
+    display:inline-block;
+    float:left;
+    margin:0 auto;
+    padding:0;
+    padding-left:10px;
+    padding-right:5px;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-weight:600;
+    font-variant:normal;
+    line-height:1.5;
+    text-align:left;
+    text-decoration:none;
+}
+@media only screen and (min-width:1200px){
+    li.HeaderMenuAltiSecenekleri{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    li.HeaderMenuAltiSecenekleri{
+        font-size:13px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    li.HeaderMenuAltiSecenekleri{
+        font-size:12px;
+    }
+}
+li.HeaderMenuAltiSecenekleri a{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    text-align:left;
+    text-decoration:none;
+}
+li.HeaderMenuAltiSecenekleri a:link, li.HeaderMenuAltiSecenekleri a:active, li.HeaderMenuAltiSecenekleri a:visited{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    text-align:left;
+    text-decoration:none;
+}
+li.HeaderMenuAltiSecenekleri a:hover{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#000;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    text-align:left;
+    text-decoration:none;
+}
+#HeaderMenuAcmaButonuAlani{
+    float:right;
+    width:26px;
+    min-width:26px;
+    max-width:26px;
+    height:20px;
+    min-height:20px;
+    max-height:20px;
+    margin:0;
+    padding:0;
+    padding-top:8px;
+    padding-right:5px;
+    border:none;
+    outline:none;
+    vertical-align:middle;
+    text-align:right;
+    cursor:pointer;
+}
+@media only screen and (min-width:1200px){
+    #HeaderMenuAcmaButonuAlani{
+        display:none;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #HeaderMenuAcmaButonuAlani{
+        display:none;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    #HeaderMenuAcmaButonuAlani{
+        display:none;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    #HeaderMenuAcmaButonuAlani{
+        display:block;
+    }
+}
+@media only screen and (max-width:575px){
+    #HeaderMenuAcmaButonuAlani{
+        display:block;
+    }
+}
+#HeaderMenuAcmaButonuAlani img{
+    display:block;
+    width:26px;
+    min-width:26px;
+    max-width:26px;
+    height:20px;
+    min-height:20px;
+    max-height:20px;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+}
+#HeaderMenuAcmaButonuMenuSinirlamaAlani{
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    min-height:auto;
+    max-height:auto;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+    background-color:#3d3d3d;
+    text-align:center;
+    vertical-align:middle;
+}
+@media only screen and (min-width:768px){
+    #HeaderMenuAcmaButonuMenuSinirlamaAlani{
+        display:none;
+    }
+}
+@media only screen and (max-width:767px){
+    #HeaderMenuAcmaButonuMenuSinirlamaAlani{
+        display:block;
+    }
+}
+#HeaderMenuAcmaButonuMenu{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#3d3d3d;
+    vertical-align:top;
+    text-align:center;
+}
+#HeaderMenuAcmaButonuMenuSeceneklerAlani{
+    display:block;
+    float:left;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    list-style:none;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+    text-align:center;
+}
+.HeaderMenuAcmaButonuMenuSecenekleri{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:20px;
+    min-height:20px;
+    max-height:20px;
+    margin:0 auto;
+    padding:0;
+    padding:5px 5px 4px 5px;
+    border:none;
+    border-bottom:1px solid #ccc;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size:12px;
+    color:#fff;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:1.5;
+    text-align:center;
+    text-decoration:none;
+}
+li.HeaderMenuAcmaButonuMenuSecenekleri a:link, li.HeaderMenuAcmaButonuMenuSecenekleri a:active, li.HeaderMenuAcmaButonuMenuSecenekleri a:visited{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#fff;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    text-align:left;
+    text-decoration:none;
+}
+li.HeaderMenuAcmaButonuMenuSecenekleri a:hover{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#ff0;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    text-align:left;
+    text-decoration:none;
+}
+main{
+    position:relative;
+    display:block;
+    z-index:98;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    vertical-align:top;
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
