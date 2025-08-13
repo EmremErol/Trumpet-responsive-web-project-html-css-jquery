@@ -2108,6 +2108,397 @@ footer{
     font-weight:normal;
     text-decoration:underline;
 }
+#TumSayfaCerceveAlani{
+    position:relative;
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+    background-color:#eee;
+    vertical-align:top;
+    text-align:center;
+}
+@media only screen and (min-width:1200px){
+    #TumSayfaCerceveAlani{
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #TumSayfaCerceveAlani{
+        padding-top:5px;
+        padding-bottom:5px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    #TumSayfaCerceveAlani{
+        padding-top:5px;
+        padding-bottom:5px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    #TumSayfaCerceveAlani{
+        padding-top:5px;
+        padding-bottom:5px;
+    }
+}
+@media only screen and (max-width:575px){
+    #TumSayfaCerceveAlani{
+        padding-top:5px;
+        padding-bottom:5px;
+    }
+}
+#TamSayfaCerceveSinirlamaAlani{
+    position:relative;
+    display:block;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    border:1px solid #ddd;
+    outline:none;
+    background-color:#fff;
+    vertical-align:middle;
+    text-align:center;
+}
+@media only screen and (min-width:1200px){
+    #TamSayfaCerceveSinirlamaAlani{
+        width:-webkit-calc(1175px - 52px);
+        width:-moz-calc(1175px - 52px);
+        width:-o-calc(1175px - 52px);
+        width:-ms-calc(1175px - 52px);
+        width:calc(1175px - 52px);
+        min-width:-webkit-calc(1175px - 52px);
+        min-width:-moz-calc(1175px - 52px);
+        min-width:-o-calc(1175px - 52px);
+        min-width:-ms-calc(1175px - 52px);
+        min-width:calc(1175px - 52px);
+        max-width:-webkit-calc(1175px - 52px);
+        max-width:-moz-calc(1175px - 52px);
+        max-width:-o-calc(1175px - 52px);
+        max-width:-ms-calc(1175px - 52px);
+        max-width:calc(1175px - 52px);
+        padding:20px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+        #TamSayfaCerceveSinirlamaAlani{
+        width:-webkit-calc(100% - 52px);
+        width:-moz-calc(100% - 52px);
+        width:-o-calc(100% - 52px);
+        width:-ms-calc(100% - 52px);
+        width:calc(100% - 52px);
+        min-width:-webkit-calc(100% - 52px);
+        min-width:-moz-calc(100% - 52px);
+        min-width:-o-calc(100% - 52px);
+        min-width:-ms-calc(100% - 52px);
+        min-width:calc(100% - 52px);
+        max-width:-webkit-calc(100% - 52px);
+        max-width:-moz-calc(100% - 52px);
+        max-width:-o-calc(100% - 52px);
+        max-width:-ms-calc(100% - 52px);
+        max-width:calc(100% - 52px);
+        padding:18px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+        #TamSayfaCerceveSinirlamaAlani{
+        width:-webkit-calc(100% - 52px);
+        width:-moz-calc(100% - 52px);
+        width:-o-calc(100% - 52px);
+        width:-ms-calc(100% - 52px);
+        width:calc(100% - 52px);
+        min-width:-webkit-calc(100% - 52px);
+        min-width:-moz-calc(100% - 52px);
+        min-width:-o-calc(100% - 52px);
+        min-width:-ms-calc(100% - 52px);
+        min-width:calc(100% - 52px);
+        max-width:-webkit-calc(100% - 52px);
+        max-width:-moz-calc(100% - 52px);
+        max-width:-o-calc(100% - 52px);
+        max-width:-ms-calc(100% - 52px);
+        max-width:calc(100% - 52px);
+        padding:16px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+        #TamSayfaCerceveSinirlamaAlani{
+        width:-webkit-calc(100% - 52px);
+        width:-moz-calc(100% - 52px);
+        width:-o-calc(100% - 52px);
+        width:-ms-calc(100% - 52px);
+        width:calc(100% - 52px);
+        min-width:-webkit-calc(100% - 52px);
+        min-width:-moz-calc(100% - 52px);
+        min-width:-o-calc(100% - 52px);
+        min-width:-ms-calc(100% - 52px);
+        min-width:calc(100% - 52px);
+        max-width:-webkit-calc(100% - 52px);
+        max-width:-moz-calc(100% - 52px);
+        max-width:-o-calc(100% - 52px);
+        max-width:-ms-calc(100% - 52px);
+        max-width:calc(100% - 52px);
+        padding:14px;
+    }
+}
+@media only screen and (max-width:575px){
+        #TamSayfaCerceveSinirlamaAlani{
+        width:-webkit-calc(100% - 52px);
+        width:-moz-calc(100% - 52px);
+        width:-o-calc(100% - 52px);
+        width:-ms-calc(100% - 52px);
+        width:calc(100% - 52px);
+        min-width:-webkit-calc(100% - 52px);
+        min-width:-moz-calc(100% - 52px);
+        min-width:-o-calc(100% - 52px);
+        min-width:-ms-calc(100% - 52px);
+        min-width:calc(100% - 52px);
+        max-width:-webkit-calc(100% - 52px);
+        max-width:-moz-calc(100% - 52px);
+        max-width:-o-calc(100% - 52px);
+        max-width:-ms-calc(100% - 52px);
+        max-width:calc(100% - 52px);
+        padding:12px;
+    }
+}
+#TamSayfaCerceveSinirlamaAlaniIciYuzdeYuzlukAlan{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+#TumSayfaCerceveAlaniIciAltiCizgiliBaslikAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    border-bottom:1px solid #ddd;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){/* XL */
+    #TumSayfaCerceveAlaniIciAltiCizgiliBaslikAlani{
+        padding-bottom:20px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){/* L */
+    #TumSayfaCerceveAlaniIciAltiCizgiliBaslikAlani{
+        padding-bottom:18px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){/* M */
+    #TumSayfaCerceveAlaniIciAltiCizgiliBaslikAlani{
+        padding-bottom:16px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){/* S */
+    #TumSayfaCerceveAlaniIciAltiCizgiliBaslikAlani{
+        padding-bottom:14px;
+    }
+}
+@media only screen and (max-width:575){/* XS */
+    #TumSayfaCerceveAlaniIciAltiCizgiliBaslikAlani{
+        padding-bottom:12px;
+    }
+}
+#TumSayfaCerceveAlaniUstBaslikMetni{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#f90;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    #TumSayfaCerceveAlaniUstBaslikMetni{
+        font-size:18px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #TumSayfaCerceveAlaniUstBaslikMetni{
+        font-size:16px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    #TumSayfaCerceveAlaniUstBaslikMetni{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    #TumSayfaCerceveAlaniUstBaslikMetni{
+        font-size:14px;
+    }
+}
+@media only screen and (max-width:575px){
+    #TumSayfaCerceveAlaniUstBaslikMetni{
+        font-size:14px;
+    }
+}
+#TumSayfaCerceveAlaniAltBaslikMetni{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    #TumSayfaCerceveAlaniAltBaslikMetni{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #TumSayfaCerceveAlaniAltBaslikMetni{
+        font-size:13px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    #TumSayfaCerceveAlaniAltBaslikMetni{
+        font-size:12px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    #TumSayfaCerceveAlaniAltBaslikMetni{
+        font-size:12px;
+    }
+}
+@media only screen and (max-width:575px){
+    #TumSayfaCerceveAlaniAltBaslikMetni{
+        font-size:12px;
+    }
+}
+#TumSayfaCerceveAlaniIciGenelBilgilendirmeMetniAlani{
+    position:relative;
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding-top:10px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:130%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    #TumSayfaCerceveAlaniIciGenelBilgilendirmeMetniAlani{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #TumSayfaCerceveAlaniIciGenelBilgilendirmeMetniAlani{
+        font-size:13px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    #TumSayfaCerceveAlaniIciGenelBilgilendirmeMetniAlani{
+        font-size:12px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    #TumSayfaCerceveAlaniIciGenelBilgilendirmeMetniAlani{
+        font-size:12px;
+    }
+}
+@media only screen and (max-width:575px){
+    #TumSayfaCerceveAlaniIciGenelBilgilendirmeMetniAlani{
+        font-size:12px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
