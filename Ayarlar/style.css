@@ -2355,17 +2355,7 @@ footer{
         font-size:16px;
     }
 }
-@media only screen and (min-width:768px) and (max-width:991px){
-    .TumSayfaCerceveAlaniUstBaslikMetni{
-        font-size:14px;
-    }
-}
-@media only screen and (min-width:576px) and (max-width:767px){
-    .TumSayfaCerceveAlaniUstBaslikMetni{
-        font-size:14px;
-    }
-}
-@media only screen and (max-width:575px){
+@media only screen and (max-width:991px){
     .TumSayfaCerceveAlaniUstBaslikMetni{
         font-size:14px;
     }
@@ -3404,6 +3394,363 @@ footer{
         font-size:12px;
     }
 }
+.TamSayfaCerceveAlaniIciBayilerAlani{
+    position:relative;
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#FFF;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+   .TamSayfaCerceveAlaniIciBayilerAlani{
+    font-size:14px;
+   } 
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TamSayfaCerceveAlaniIciBayilerAlani{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TamSayfaCerceveAlaniIciBayilerAlani{
+        font-size:12px;
+    }
+}
+.TamSayfaCerceveAlaniIciBayilerBaslikMetni{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding-top:10px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#FFF;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#08A;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TamSayfaCerceveAlaniIciBayilerBaslikMetni{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TamSayfaCerceveAlaniIciBayilerBaslikMetni{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TamSayfaCerceveAlaniIciBayilerBaslikMetni{
+        font-size:12px;
+    }
+}
+.TamSayfaCerceveAlaniIciBayilerBilgiMetni{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    overflow:hidden;
+    margin:0 auto;
+    margin-bottom:10px;
+    padding:0;
+    padding-bottom:10px;
+    padding-top:10px;
+    border:none;
+    border-bottom:1px dashed #ccc;
+    outline:none;
+    background-color:#FFF;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:125%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TamSayfaCerceveAlaniIciBayilerBilgiMetni{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TamSayfaCerceveAlaniIciBayilerBilgiMetni{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TamSayfaCerceveAlaniIciBayilerBilgiMetni{
+        font-size:12px;
+    }
+}
+#SayfalamaAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#FFF;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+#SayfalamaAlaniIciSayfaVeKayitSayisiAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#FFF;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    line-height:1.5;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    #SayfalamaAlaniIciSayfaVeKayitSayisiAlani{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #SayfalamaAlaniIciSayfaVeKayitSayisiAlani{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    #SayfalamaAlaniIciSayfaVeKayitSayisiAlani{
+        font-size:12px;
+    }
+}
+#SayfalamaNumaralandirmaAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    margin-top:5px;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#FFF;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+.SayfalamaNumaralandirmaPasif{
+    display:inline-block;
+    width:auto;
+    height:auto;
+    margin:0 auto;
+    margin-right:5px;
+    margin-left:5px;
+    padding:0;
+    padding:5px 7.5px;
+    overflow:hidden;
+    border:none;
+    border:1px solid #ccc;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    -o-border-radius:3px;
+    -ms-border-radius:3px;
+    border-radius:3px;
+    outline:none;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:middle;
+    -webkit-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+}
+.SayfalamaNumaralandirmaPasif:hover{
+    border:1px solid #000;  
+    -webkit-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+
+
+}
+@media only screen and (min-width:1200px){
+   .SayfalamaNumaralandirmaPasif{
+    font-size:14px;
+   } 
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .SayfalamaNumaralandirmaPasif{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .SayfalamaNumaralandirmaPasif{
+        font-size:12px;
+    }
+}
+ .SayfalamaNumaralandirmaPasif a{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    text-decoration:none;
+    line-height:120%;
+    vertical-align:middle;
+ }
+ .SayfalamaNumaralandirmaPasif a:link, .SayfalamaNumaralandirmaPasif a:active, .SayfalamaNumaralandirmaPasif a:visited{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    vertical-align:middle;
+ }
+.SayfalamaNumaralandirmaAktif{
+    display:inline-block;
+    width:auto;
+    height:auto;
+    margin:0 auto;
+    margin-right:5px;
+    margin-left:5px;
+    padding:0;
+    padding:5px 7.5px;
+    overflow:hidden;
+    border:none;
+    border:1px solid #ccc;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    -o-border-radius:3px;
+    -ms-border-radius:3px;
+    border-radius:3px;
+    outline:none;
+    background-color:#ccc;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:middle;
+    -webkit-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+}
+@media only screen and (min-width:1200px){
+   .SayfalamaNumaralandirmaAktif{
+    font-size:14px;
+   } 
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .SayfalamaNumaralandirmaAktif{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .SayfalamaNumaralandirmaAktif{
+        font-size:12px;
+    }
+}
+ .SayfalamaNumaralandirmaAktif a{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    text-decoration:none;
+    line-height:120%;
+    vertical-align:middle;
+ }
+ .SayfalamaNumaralandirmaAktif a:link, .SayfalamaNumaralandirmaAktif a:active, .SayfalamaNumaralandirmaAktif a:visited{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    vertical-align:middle;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
