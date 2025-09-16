@@ -74,5 +74,43 @@ var DokumanGenisligi		=	$(window).outerWidth();
     })
 
 /* MAİN ALANI İÇİN ÜSTTEN BOŞLUK HESPLAMALARI <<<<*/
-
 })
+/* SSS İÇERİK GÖSTER / GİZLE >>>>*/
+
+$.SSSIceriginiGoster  = function(ElemanID){
+	var SoruIDsi		 = ElemanID;
+	var IslenecekAlan 	 = "#" + SoruIDsi;
+
+	$(".TamSafyfaCerceveAlaniIciSSSSoruIcerigiAlani").slideUp();
+	$(IslenecekAlan).parent().find(".TamSafyfaCerceveAlaniIciSSSSoruIcerigiAlani").slideToggle();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SSS İÇERİK GÖSTER / GİZLE <<<<<<*/
+
+
+
+
+
+
+
+
+
+
+
