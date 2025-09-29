@@ -499,21 +499,21 @@ ul#HeaderMenuUstuSeceneklerAlani{
 #HeaderMenuNavAlani{
     display:inline-block;
     float:right;
-    width:-webkit-calc(100%-235px);/* Calc fonksiyonlarına bak */
-    width:-moz-calc(100%-235px);
-    width:-o-calc(100%-235px);
-    width:-ms-calc(100%-235px);
-    width:calc(100%-235px);
-    min-width:-webkit-calc(100%-235px);
-    min-width:-moz-calc(100%-235px);
-    min-width:-o-calc(100%-235px);
-    min-width:-ms-calc(100%-235px);
-    min-width:calc(100%-235px);
-    max-width:-webkit-calc(100%-235px);
-    max-width:-moz-calc(100%-235px);
-    max-width:-o-calc(100%-235px);
-    max-width:-ms-calc(100%-235px);
-    max-width:calc(100%-235px);
+    width:-webkit-calc(100% - 235px);/* Calc fonksiyonlarına bak */
+    width:-moz-calc(100% - 235px);
+    width:-o-calc(100% - 235px);
+    width:-ms-calc(100% - 235px);
+    width:calc(100% - 235px);
+    min-width:-webkit-calc(100% - 235px);
+    min-width:-moz-calc(100% - 235px);
+    min-width:-o-calc(100% - 235px);
+    min-width:-ms-calc(100% - 235px);
+    min-width:calc(100% - 235px);
+    max-width:-webkit-calc(100% - 235px);
+    max-width:-moz-calc(100% - 235px);
+    max-width:-o-calc(100% - 235px);
+    max-width:-ms-calc(100% - 235px);
+    max-width:calc(100% - 235px);
     height:35px;
     min-height:35px;
     max-height:35px;
@@ -910,21 +910,21 @@ footer{
 }
 .FooterMenulariSutunlariBaslikAlani{
     display:block;
-    width:-webkit-calc(100%-10px);
-    width:-moz-calc(100%-10px);
-    width:-o-calc(100%-10px);
-    width:-ms-calc(100%-10px);
-    width:calc(100%-10px);
-    min-width:-webkit-calc(100%-10px);
-    min-width:-moz-calc(100%-10px);
-    min-width:-o-calc(100%-10px);
-    min-width:-ms-calc(100%-10px);
-    min-width:calc(100%-10px);
-    max-width:-webkit-calc(100%-10px);
-    max-width:-moz-calc(100%-10px);
-    max-width:-o-calc(100%-10px);
-    max-width:-ms-calc(100%-10px);
-    max-width:calc(100%-10px);
+    width:-webkit-calc(100% - 10px);
+    width:-moz-calc(100% - 10px);
+    width:-o-calc(100% - 10px);
+    width:-ms-calc(100% - 10px);
+    width:calc(100% - 10px);
+    min-width:-webkit-calc(100% - 10px);
+    min-width:-moz-calc(100% - 10px);
+    min-width:-o-calc(100% - 10px);
+    min-width:-ms-calc(100% - 10px);
+    min-width:calc(100% - 10px);
+    max-width:-webkit-calc(100% - 10px);
+    max-width:-moz-calc(100% - 10px);
+    max-width:-o-calc(100% - 10px);
+    max-width:-ms-calc(100% - 10px);
+    max-width:calc(100% - 10px);
     height:auto;
     margin:0 auto;
     margin-right:10px;
@@ -971,21 +971,21 @@ footer{
 }
 .FooterMenuleriSutunlariMenulerAlani{
     display:block;
-    width:-webkit-calc(100%-10px);
-    width:-moz-calc(100%-10px);
-    width:-o-calc(100%-10px);
-    width:-ms-calc(100%-10px);
-    width:calc(100%-10px);
-    min-width:-webkit-calc(100%-10px);
-    min-width:-moz-calc(100%-10px);
-    min-width:-o-calc(100%-10px);
-    min-width:-ms-calc(100%-10px);
-    min-width:calc(100%-10px);
-    max-width:-webkit-calc(100%-10px);
-    max-width:-moz-calc(100%-10px);
-    max-width:-o-calc(100%-10px);
-    max-width:-ms-calc(100%-10px);
-    max-width:calc(100%-10px);
+    width:-webkit-calc(100% - 10px);
+    width:-moz-calc(100% - 10px);
+    width:-o-calc(100% - 10px);
+    width:-ms-calc(100% - 10px);
+    width:calc(100% - 10px);
+    min-width:-webkit-calc(100% - 10px);
+    min-width:-moz-calc(100% - 10px);
+    min-width:-o-calc(100% - 10px);
+    min-width:-ms-calc(100% - 10px);
+    min-width:calc(100% - 10px);
+    max-width:-webkit-calc(100% - 10px);
+    max-width:-moz-calc(100% - 10px);
+    max-width:-o-calc(100% - 10px);
+    max-width:-ms-calc(100% - 10px);
+    max-width:calc(100% - 10px);
     height:auto;
     margin:0 auto;
     padding:0;
@@ -1112,21 +1112,21 @@ footer{
 }
 #FooterAltMetniSinirlamaAlani{
     display:block;
-    width:-webkit-calc(100%-10px);
-    width:-moz-calc(100%-10px);
-    width:-o-calc(100%-10px);
-    width:-ms-calc(100%-10px);
-    width:calc(100%-10px);
-    min-width:-webkit-calc(100%-10px);
-    min-width:-moz-calc(100%-10px);
-    min-width:-o-calc(100%-10px);
-    min-width:-ms-calc(100%-10px);
-    min-width:calc(100%-10px);
-    max-width:-webkit-calc(100%-10px);
-    max-width:-moz-calc(100%-10px);
-    max-width:-o-calc(100%-10px);
-    max-width:-ms-calc(100%-10px);
-    max-width:calc(100%-10px);
+    width:-webkit-calc(100% - 10px);
+    width:-moz-calc(100% - 10px);
+    width:-o-calc(100% - 10px);
+    width:-ms-calc(100% - 10px);
+    width:calc(100% - 10px);
+    min-width:-webkit-calc(100% - 10px);
+    min-width:-moz-calc(100% - 10px);
+    min-width:-o-calc(100% - 10px);
+    min-width:-ms-calc(100% - 10px);
+    min-width:calc(100% - 10px);
+    max-width:-webkit-calc(100% - 10px);
+    max-width:-moz-calc(100% - 10px);
+    max-width:-o-calc(100% - 10px);
+    max-width:-ms-calc(100% - 10px);
+    max-width:calc(100% - 10px);
     height:auto;
     margin:0 auto;
     padding:0;
@@ -1187,21 +1187,21 @@ footer{
 }
 #FooterAltLogolarSinirlamaAlani{
         display:block;
-    width:-webkit-calc(100%-10px);
-    width:-moz-calc(100%-10px);
-    width:-o-calc(100%-10px);
-    width:-ms-calc(100%-10px);
-    width:calc(100%-10px);
-    min-width:-webkit-calc(100%-10px);
-    min-width:-moz-calc(100%-10px);
-    min-width:-o-calc(100%-10px);
-    min-width:-ms-calc(100%-10px);
-    min-width:calc(100%-10px);
-    max-width:-webkit-calc(100%-10px);
-    max-width:-moz-calc(100%-10px);
-    max-width:-o-calc(100%-10px);
-    max-width:-ms-calc(100%-10px);
-    max-width:calc(100%-10px);
+    width:-webkit-calc(100% - 10px);
+    width:-moz-calc(100% - 10px);
+    width:-o-calc(100% - 10px);
+    width:-ms-calc(100% - 10px);
+    width:calc(100% - 10px);
+    min-width:-webkit-calc(100% - 10px);
+    min-width:-moz-calc(100% - 10px);
+    min-width:-o-calc(100% - 10px);
+    min-width:-ms-calc(100% - 10px);
+    min-width:calc(100% - 10px);
+    max-width:-webkit-calc(100% - 10px);
+    max-width:-moz-calc(100% - 10px);
+    max-width:-o-calc(100% - 10px);
+    max-width:-ms-calc(100% - 10px);
+    max-width:calc(100% - 10px);
     height:auto;
     margin:0 auto;
     padding:0;
@@ -2876,8 +2876,8 @@ footer{
         width:-webkit-calc(50% - 10px);
         width:-moz-calc(50% - 10px);
         width:-o-calc(50% - 10px);
-        width:-ms-calc(50%- 10px);
-        min-width:calc(50%- 10px);
+        width:-ms-calc(50% - 10px);
+        min-width:calc(50% - 10px);
         min-width:-webkit-calc(50% - 10px);
         min-width:-moz-calc(50% - 10px);
         min-width:-o-calc(50% - 10px);
@@ -2895,8 +2895,8 @@ footer{
         width:-webkit-calc(50% - 9px);
         width:-moz-calc(50% - 9px);
         width:-o-calc(50% - 9px);
-        width:-ms-calc(50%- 9px);
-        min-width:calc(50%- 9px);
+        width:-ms-calc(50% - 9px);
+        min-width:calc(50% - 9px);
         min-width:-webkit-calc(50% - 9px);
         min-width:-moz-calc(50% - 9px);
         min-width:-o-calc(50% - 9px);
@@ -2914,8 +2914,8 @@ footer{
         width:-webkit-calc(50% - 8px);
         width:-moz-calc(50% - 8px);
         width:-o-calc(50% - 8px);
-        width:-ms-calc(50%- 8px);
-        min-width:calc(50%- 8px);
+        width:-ms-calc(50% - 8px);
+        min-width:calc(50% - 8px);
         min-width:-webkit-calc(50% - 8px);
         min-width:-moz-calc(50% - 8px);
         min-width:-o-calc(50% - 8px);
@@ -4362,7 +4362,7 @@ footer{
     }
 }
 .CheckBoxlarveSecenekleriIcinKapsamaAlani{
-    display:bloxk;
+    display:block;
     width:100%;
     min-width:100%;
     max-width:100%;
@@ -7528,6 +7528,1266 @@ footer{
         padding-right:5px;
     }
 }
+
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecenekleriAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecenekleriAlani{
+        margin-top:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecenekleriAlani{
+        margin-top:9px;
+    }
+}
+@media only screen and (max-width:992px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecenekleriAlani{
+        margin-top:8px;
+    }
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecenekleriBaslikAlani{
+    display:block;
+    width:-webkit-calc(100% - 10px);
+    width:-moz-calc(100% - 10px);
+    width:-o-calc(100% - 10px);
+    width:-ms-calc(100% - 10px);
+    width:calc(100% - 10px);
+    min-width:-webkit-calc(100% - 10px);
+    min-width:-moz-calc(100% - 10px);
+    min-width:-o-calc(100% - 10px);
+    min-width:-ms-calc(100% - 10px);
+    min-width:calc(100% - 10px);
+    max-width:-webkit-calc(100% - 10px);
+    max-width:-moz-calc(100% - 10px);
+    max-width:-o-calc(100% - 10px);
+    max-width:-ms-calc(100% - 10px);
+    max-width:calc(100% - 10px);
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding:10px 5px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#f1f1f1;
+    color:#646464;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:120%;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecenekleriBaslikAlani{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecenekleriBaslikAlani{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecenekleriBaslikAlani{
+        font-size:12px;
+    }
+}
+.TumSayfaCerceveAlaniIciOdemeSecimleriAlani{
+    position:relative;
+    display:block;
+    float:left;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:0;
+    outline:0;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciOdemeSecimleriDengelemeAlani{
+    position:relative;
+    display:block;
+    float:left;
+    width:-webkit-calc(100% + 10px);
+    width:-moz-calc(100% + 10px);
+    width:-o-calc(100% + 10px);
+    width:-ms-calc(100% + 10px);
+    min-width:calc(100% + 10px);
+    min-width:-webkit-calc(100% + 10px);
+    min-width:-moz-calc(100% + 10px);
+    min-width:-o-calc(100% + 10px);
+    min-width:-ms-calc(100% + 10px);
+    min-width:calc(100% + 10px);
+    max-width:-webkit-calc(100% + 10px);
+    max-width:-moz-calc(100% + 10px);
+    max-width:-o-calc(100% + 10px);
+    max-width:-ms-calc(100% + 10px);
+    max-width:calc(100% + 10px);
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    top:0;
+    left:-5px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciOdemeSecimleriSinirlamaAlani{
+    display:inline-block;
+    float:left;
+    height:auto;
+    margin:0 auto;
+    margin-top:10px;
+    margin-right:5px;
+    margin-left:5px;
+    padding:0;
+    padding:10px;
+    border:none;
+    border:1px solid #ccc;
+    outline:none;
+    overflow:hidden;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+@media only screen and (min-width:992px){
+    .TumSayfaCerceveAlaniIciOdemeSecimleriSinirlamaAlani{
+        width:-webkit-calc(33.33% - 32px);
+        width:-moz-calc(33.33% - 32px);
+        width:-o-calc(33.33% - 32px);
+        width:-ms-calc(33.33% - 32px);
+        width:calc(33.33% - 32px);
+        min-width:-webkit-calc(33.33% - 32px);
+        min-width:-moz-calc(33.33% - 32px);
+        min-width:-o-calc(33.33% - 32px);
+        min-width:-ms-calc(33.33% - 32px);
+        min-width:calc(33.33% - 32px);
+        max-width:-webkit-calc(33.33% - 32px);
+        max-width:-moz-calc(33.33% - 32px);
+        max-width:-o-calc(33.33% - 32px);
+        max-width:-ms-calc(33.33% - 32px);
+        max-width:calc(33.33% - 32px);
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+        .TumSayfaCerceveAlaniIciOdemeSecimleriSinirlamaAlani{
+        width:-webkit-calc(50% - 32px);
+        width:-moz-calc(50% - 32px);
+        width:-o-calc(50% - 32px);
+        width:-ms-calc(50% - 32px);
+        width:calc(50% - 32px);
+        min-width:-webkit-calc(50% - 32px);
+        min-width:-moz-calc(50% - 32px);
+        min-width:-o-calc(50% - 32px);
+        min-width:-ms-calc(50% - 32px);
+        min-width:calc(50% - 32px);
+        max-width:-webkit-calc(50% - 32px);
+        max-width:-moz-calc(50% - 32px);
+        max-width:-o-calc(50% - 32px);
+        max-width:-ms-calc(50% - 32px);
+        max-width:calc(50% - 32px);
+    }
+}
+@media only screen and (max-width:767px){
+    .TumSayfaCerceveAlaniIciOdemeSecimleriSinirlamaAlani{
+        width:-webkit-calc(100% - 32px);
+        width:-moz-calc(100% - 32px);
+        width:-o-calc(100% - 32px);
+        width:-ms-calc(100% - 32px);
+        width:calc(100% - 32px);
+        min-width:-webkit-calc(100% - 32px);
+        min-width:-moz-calc(100% - 32px);
+        min-width:-o-calc(100% - 32px);
+        min-width:-ms-calc(100% - 32px);
+        min-width:calc(100% - 32px);
+        max-width:-webkit-calc(100% - 32px);
+        max-width:-moz-calc(100% - 32px);
+        max-width:-o-calc(100% - 32px);
+        max-width:-ms-calc(100% - 32px);
+        max-width:calc(100% - 32px);
+    }
+}
+.TumSayfaCerceveAlaniIciOdemeOdemeSistemiLogosuAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:75px;
+    min-height:75px;
+    max-height:75px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciOdemeOdemeSistemiLogosuAlani img{
+    display:block;
+    width:auto;
+    height:75px;
+    min-height:75px;
+    max-height:75px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+}
+.TumSayfaCerceveAlaniIciOdemeOdemeSecimiTablosu{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+
+.TumSayfaCerceveAlaniIciOdemeOdemeSecimiTablosuRadioButonSutunu{
+    width:25px;
+    min-width:25px;
+    max-width:25px;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriRadioButonAlani{
+    display:inline-block;
+    float:left;
+    width:20px;
+    min-width:20px;
+    max-width:20px;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriRadioButonSecenekKapsamaAlani{
+    cursor:pointer;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -o-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriRadioButonInputlari{
+    position:absolute;
+    visibility:hidden;
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriRadioButonBicimlendirmeAlani{
+    display:inline-block;
+    float:left;
+    width:16px;
+    min-width:16px;
+    max-width:16px;
+    height:16px;
+    min-height:16px;
+    max-height:16px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    border:1px solid #ccc;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -o-border-radius:50%;
+    -ms-border-radius:50%;
+    border-radius:50%;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition:all 500ms ease-in-out;
+    -o-transition:all 500ms ease-in-out;
+    -ms-transition:all 500ms ease-in-out;
+    transition:all 500ms ease-in-out;
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriRadioButonSecenekKapsamaAlani:hover > span.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriRadioButonBicimlendirmeAlani{
+    border:1px solid #999;
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition:all 500ms ease-in-out;
+    -o-transition:all 500ms ease-in-out;
+    -ms-transition:all 500ms ease-in-out;
+    transition:all 500ms ease-in-out;
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriRadioButonInputlari:checked + span.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriRadioButonBicimlendirmeAlani{
+    border:1px solid #999;
+    -webkit-box-shadow: inset 0 0 0 3px #fff;
+    -moz-box-shadow: inset 0 0 0 3px #fff;
+    -o-box-shadow: inset 0 0 0 3px #fff;
+    -ms-box-shadow: inset 0 0 0 3px #fff;         
+    box-shadow: inset 0 0 0 3px #fff;
+    background-color:#f90;
+}
+.TumSayfaCerceveAlaniIciOdemeOdemeSecimiTablosuBaslikMetniSutunu{
+    width:auto;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    line-height:125%;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciOdemeOdemeSecimiTablosuBaslikMetniSutunu{
+        font-size:14px;
+        padding-top:2px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciOdemeOdemeSecimiTablosuBaslikMetniSutunu{
+        font-size:13px;
+        padding-top:2px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciOdemeOdemeSecimiTablosuBaslikMetniSutunu{
+        font-size:12px;
+        padding-top:3px;
+    }
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiAlani{
+        margin-top:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiAlani{
+        margin-top:9px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiAlani{
+        margin-top:8px;
+    }
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiBaslikAlani{
+    display:block;
+    width:-webkit-calc(100% - 10px);
+    width:-moz-calc(100% - 10px);
+    width:-o-calc(100% - 10px);
+    width:-ms-calc(100% - 10px);
+    width:calc(100% - 10px);
+    min-width:-webkit-calc(100% - 10px);
+    min-width:-moz-calc(100% - 10px);
+    min-width:-o-calc(100% - 10px);
+    min-width:-ms-calc(100% - 10px);
+    min-width:calc(100% - 10px);
+    max-width:-webkit-calc(100% - 10px);
+    max-width:-moz-calc(100% - 10px);
+    max-width:-o-calc(100% - 10px);
+    max-width:-ms-calc(100% - 10px);
+    max-width:calc(100% - 10px);
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding:10px 5px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#f1f1f1;
+    color:#646464;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:120%;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiBaslikAlani{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiBaslikAlani{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiBaslikAlani{
+        font-size:12px;
+    }
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiAciklamaMetniAlani{
+    display:block;
+    width:-webkit-calc(100% - 10px);
+    width:-moz-calc(100% - 10px);
+    width:-o-calc(100% - 10px);
+    width:-ms-calc(100% - 10px);
+    width:calc(100% - 10px);
+    min-width:-webkit-calc(100% - 10px);
+    min-width:-moz-calc(100% - 10px);
+    min-width:-o-calc(100% - 10px);
+    min-width:-ms-calc(100% - 10px);
+    min-width:calc(100% - 10px);
+    max-width:-webkit-calc(100% - 10px);
+    max-width:-moz-calc(100% - 10px);
+    max-width:-o-calc(100% - 10px);
+    max-width:-ms-calc(100% - 10px);
+    max-width:calc(100% - 10px);
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding:10px 5px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    color:#646464;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiAciklamaMetniAlani{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiAciklamaMetniAlani{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiAciklamaMetniAlani{
+        font-size:12px;
+    }
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriAlani{
+    position:relative;
+    display:block;
+    float:left;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding:10px 5px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    vertical-align:top;
+    text-align:center;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriDengelemeAlani{
+    position:relative;
+    display:block;
+    float:left;
+    width:-webkit-calc(100% + 10px);
+    width:-moz-calc(100% + 10px);
+    width:-o-calc(100% + 10px);
+    width:-ms-calc(100% + 10px);
+    min-width:calc(100% + 10px);
+    min-width:-webkit-calc(100% + 10px);
+    min-width:-moz-calc(100% + 10px);
+    min-width:-o-calc(100% + 10px);
+    min-width:-ms-calc(100% + 10px);
+    min-width:calc(100% + 10px);
+    max-width:-webkit-calc(100% + 10px);
+    max-width:-moz-calc(100% + 10px);
+    max-width:-o-calc(100% + 10px);
+    max-width:-ms-calc(100% + 10px);
+    max-width:calc(100% + 10px);
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    top:0;
+    left:-5px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriSinirlamaAlani{
+    display:inline-block;
+    float:left;
+    height:auto;
+    margin:0 auto;
+    margin-top:10px;
+    margin-right:4px;
+    margin-left:4px;
+    padding:0;
+    padding:10px;
+    border:none;
+    border:1px solid #ccc;
+    outline:none;
+    overflow:hidden;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+@media only screen and (min-width:992px){
+    .TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriSinirlamaAlani{
+        width:-webkit-calc(25% - 32px);
+        width:-moz-calc(25% - 32px);
+        width:-o-calc(25% - 32px);
+        width:-ms-calc(25% - 32px);
+        width:calc(25% - 32px);
+        min-width:-webkit-calc(25% - 32px);
+        min-width:-moz-calc(25% - 32px);
+        min-width:-o-calc(25% - 32px);
+        min-width:-ms-calc(25% - 32px);
+        min-width:calc(25% - 32px);
+        max-width:-webkit-calc(25% - 32px);
+        max-width:-moz-calc(25% - 32px);
+        max-width:-o-calc(25% - 32px);
+        max-width:calc(325% - 32px);
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+        .TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriSinirlamaAlani{
+        width:-webkit-calc(33.33% - 32px);
+        width:-moz-calc(33.33% - 32px);
+        width:-o-calc(33.33% - 32px);
+        width:-ms-calc(33.33% - 32px);
+        width:calc(33.33% - 32px);
+        min-width:-webkit-calc(33.33% - 32px);
+        min-width:-moz-calc(33.33% - 32px);
+        min-width:-o-calc(33.33% - 32px);
+        min-width:-ms-calc(33.33% - 32px);
+        min-width:calc(33.33% - 32px);
+        max-width:-webkit-calc(33.33% - 32px);
+        max-width:-moz-calc(33.33% - 32px);
+        max-width:-o-calc(33.33% - 32px);
+        max-width:-ms-calc(33.33% - 32px);
+        max-width:calc(33.33% - 32px);
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+        .TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriSinirlamaAlani{
+        width:-webkit-calc(50% - 32px);
+        width:-moz-calc(50% - 32px);
+        width:-o-calc(50% - 32px);
+        width:-ms-calc(50% - 32px);
+        width:calc(50% - 32px);
+        min-width:-webkit-calc(50% - 32px);
+        min-width:-moz-calc(50% - 32px);
+        min-width:-o-calc(50% - 32px);
+        min-width:-ms-calc(50% - 32px);
+        min-width:calc(50% - 32px);
+        max-width:-webkit-calc(50% - 32px);
+        max-width:-moz-calc(50% - 32px);
+        max-width:-o-calc(50% - 32px);
+        max-width:-ms-calc(50% - 32px);
+        max-width:calc(50% - 32px);
+    }
+}
+@media only screen and (max-width:575px){
+    .TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriSinirlamaAlani{
+        width:-webkit-calc(100% - 32px);
+        width:-moz-calc(100% - 32px);
+        width:-o-calc(100% - 32px);
+        width:-ms-calc(100% - 32px);
+        width:calc(100% - 32px);
+        min-width:-webkit-calc(100% - 32px);
+        min-width:-moz-calc(100% - 32px);
+        min-width:-o-calc(100% - 32px);
+        min-width:-ms-calc(100% - 32px);
+        min-width:calc(100% - 32px);
+        max-width:-webkit-calc(100% - 32px);
+        max-width:-moz-calc(100% - 32px);
+        max-width:-o-calc(100% - 32px);
+        max-width:-ms-calc(100% - 32px);
+        max-width:calc(100% - 32px);
+    }
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaLogosuAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:15px;
+    min-height:15px;
+    max-height:15px;
+    margin:0 auto;
+    padding:0;
+    padding-bottom:10px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaLogosuAlani img{
+    display:block;
+    width:auto;
+    height:15px;
+    min-height:15px;
+    max-height:15px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimiTablosu{
+    display:block;
+    width:20px;
+    min-width:20px;
+    max-width:20px;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimiTablosuRadioButonSutunu{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriRadioButonAlani{
+    display:block;
+    float:left;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriRadioButonSecenekKapsamaAlani{
+    cursor:pointer;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -o-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriRadioButonInputlari{
+    position:absolute;
+    visibility:hidden;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriRadioButonBicimlendirmeAlani{
+    display:block;
+    float:left;
+    width:16px;
+    min-width:16px;
+    max-width:16px;
+    height:16px;
+    min-height:16px;
+    max-height:16px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    border:1px solid #ccc;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -o-border-radius:50%;
+    -ms-border-radius:50%;
+    border-radius:50%;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition:all 500ms ease-in-out;
+    -o-transition:all 500ms ease-in-out;
+    -ms-transition:all 500ms ease-in-out;
+    transition:all 500ms ease-in-out;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriRadioButonSecenekKapsamaAlani:hover > span.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriRadioButonBicimlendirmeAlani{
+    border:1px solid #999;
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition:all 500ms ease-in-out;
+    -o-transition:all 500ms ease-in-out;
+    -ms-transition:all 500ms ease-in-out;
+    transition:all 500ms ease-in-out;
+}
+.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriRadioButonInputlari:checked + span.TumSayfaCerceveAlaniIciKrediKartiMarkaSecimleriRadioButonBicimlendirmeAlani{
+    border:1px solid #999;
+    -webkit-box-shadow:inset 0 0 0 3px #fff;
+    -moz-box-shadow:inset 0 0 0 3px #fff;
+    -o-box-shadow:inset 0 0 0 3px #fff;
+    -ms-box-shadow:inset 0 0 0 3px #fff;
+    box-shadow:inset 0 0 0 3px #fff;
+    background-color:#f90;
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiTaksitSecimiAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiTaksitSecimiAlani{
+        margin-top:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiTaksitSecimiAlani{
+        margin-top:9px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiTaksitSecimiAlani{
+        margin-top:8px;
+    }
+}
+.TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiTaksitSecimiBaslikAlani{
+    display:block;
+    width:-webkit-calc(100% - 10px);
+    width:-moz-calc(100% - 10px);
+    width:-o-calc(100% - 10px);
+    width:-ms-calc(100% - 10px);
+    width:calc(100% - 10px);
+    min-width:-webkit-calc(100% - 10px);
+    min-width:-moz-calc(100% - 10px);
+    min-width:-o-calc(100% - 10px);
+    min-width:-ms-calc(100% - 10px);
+    min-width:calc(100% - 10px);
+    max-width:-webkit-calc(100% - 10px);
+    max-width:-moz-calc(100% - 10px);
+    max-width:-o-calc(100% - 10px);
+    max-width:-ms-calc(100% - 10px);
+    max-width:calc(100% - 10px);
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding:10px 5px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#f1f1f1;
+    color:#646464;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:120%;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiTaksitSecimiBaslikAlani{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiTaksitSecimiBaslikAlani{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciAlisverisSepetiOdemeSecimleriKrediKartiTaksitSecimiBaslikAlani{
+        font-size:12px;
+    }
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriDetayAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    border-bottom:1px solid #ddd;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriDetayAlani{
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriDetayAlani{
+        padding-top:9px;
+        padding-bottom:9px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriDetayAlani{
+        padding-top:8px;
+        padding-bottom:8px;
+    }
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriRadioButonAlani{
+    display:inline-block;
+    float:left;
+    width:20px;
+    min-width:20px;
+    max-width:20px;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriRadioButonAlani{
+        margin-right:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriRadioButonAlani{
+        margin-right:9px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriRadioButonAlani{
+        margin-right:8px;
+    }
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitMarkaSecimleriRadioButonSecenekKapsamaAlani{
+    cursor:pointer;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -o-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitMarkaSecimleriRadioButonInputlari{
+    position:absolute;
+    visibility:hidden;
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitMarkaSecimleriRadioButonBicimlendirmeAlani{
+    display:inline-block;
+    float:left;
+    width:16px;
+    min-width:16px;
+    max-width:16px;
+    height:16px;
+    min-height:16px;
+    max-height:16px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    border:1px solid #ccc;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -o-border-radius:50%;
+    -ms-border-radius:50%;
+    border-radius:50%;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition:all 500ms ease-in-out;
+    -o-transition:all 500ms ease-in-out;
+    -ms-transition:all 500ms ease-in-out;
+    transition:all 500ms ease-in-out;
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitMarkaSecimleriRadioButonSecenekKapsamaAlani:hover > span.TumSayfaCerceveAlaniIciKrediKartiTaksitMarkaSecimleriRadioButonBicimlendirmeAlani{
+    border:1px solid #999;
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition:all 500ms ease-in-out;
+    -o-transition:all 500ms ease-in-out;
+    -ms-transition:all 500ms ease-in-out;
+    transition:all 500ms ease-in-out;
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitMarkaSecimleriRadioButonInputlari:checked + span.TumSayfaCerceveAlaniIciKrediKartiTaksitMarkaSecimleriRadioButonBicimlendirmeAlani{
+    border:1px solid #999;
+    -webkit-box-shadow:inset 0 0 0 3px #fff;
+    -moz-box-shadow:inset 0 0 0 3px #fff;
+    -o-box-shadow:inset 0 0 0 3px #fff;
+    -ms-box-shadow:inset 0 0 0 3px #fff;
+    box-shadow:inset 0 0 0 3px #fff;
+    background-color:#f90;
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiMetniKapsamaAlani{
+    display:inline-block;
+    float:left;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiMetniKapsamaAlani{
+        width:-webkit-calc(100% - 30px);
+        width:-moz-calc(100% - 30px);
+        width:-o-calc(100% - 30px);
+        width:-ms-calc(100% - 30px);
+        width:calc(100% - 30px);
+        min-width:-webkit-calc(100% - 30px);
+        min-width:-moz-calc(100% - 30px);
+        min-width:-o-calc(100% - 30px);
+        min-width:-ms-calc(100% - 30px);
+        min-width:calc(100% - 30px);
+        max-width:-webkit-calc(100% - 30px);
+        max-width:-moz-calc(100% - 30px);
+        max-width:-o-calc(100% - 30px);
+        max-width:-ms-calc(100% - 30px);
+        max-width:calc(100% - 30px);
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiMetniKapsamaAlani{
+        width:-webkit-calc(100% - 29px);
+        width:-moz-calc(100% - 29px);
+        width:-o-calc(100% - 29px);
+        width:-ms-calc(100% - 29px);
+        width:calc(100% - 29px);
+        min-width:-webkit-calc(100% - 29px);
+        min-width:-moz-calc(100% - 29px);
+        min-width:-o-calc(100% - 29px);
+        min-width:-ms-calc(100% - 29px);
+        min-width:calc(100% - 29px);
+        max-width:-webkit-calc(100% - 29px);
+        max-width:-moz-calc(100% - 29px);
+        max-width:-o-calc(100% - 29px);
+        max-width:-ms-calc(100% - 29px);
+        max-width:calc(100% - 29px);
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiMetniKapsamaAlani{
+        width:-webkit-calc(100% - 28px);
+        width:-moz-calc(100% - 28px);
+        width:-o-calc(100% - 28px);
+        width:-ms-calc(100% - 28px);
+        width:calc(100% - 28px);
+        min-width:-webkit-calc(100% - 28px);
+        min-width:-moz-calc(100% - 28px);
+        min-width:-o-calc(100% - 28px);
+        min-width:-ms-calc(100% - 28px);
+        min-width:calc(100% - 28px);
+        max-width:-webkit-calc(100% - 28px);
+        max-width:-moz-calc(100% - 28px);
+        max-width:-o-calc(100% - 28px);
+        max-width:-ms-calc(100% - 28px);
+        max-width:calc(100% - 28px);
+    }
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiMetni{
+    display:inline-block;
+    float:left;
+    width:33%;
+    min-width:33%;
+    max-width:33%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    color:#646464;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiMetni{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiMetni{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiMetni{
+        font-size:12px;
+    }
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiDilimleri{
+    display:inline-block;
+    float:left;
+    width:33%;
+    min-width:33%;
+    max-width:33%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    color:#646464;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiDilimleri{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiDilimleri{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiDilimleri{
+        font-size:12px;
+    }
+}
+.TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiToplamOdemeTutari{
+    display:inline-block;
+    float:left;
+    width:33%;
+    min-width:33%;
+    max-width:33%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    color:#646464;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiToplamOdemeTutari{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiToplamOdemeTutari{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciKrediKartiTaksitSecimleriTaksitSayisiToplamOdemeTutari{
+        font-size:12px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
