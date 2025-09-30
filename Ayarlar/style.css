@@ -8699,6 +8699,405 @@ footer{
         font-size:12px;
     }
 }
+#TumSayfaCerceveAlaniIciHesapMenuleriAlani{
+    position:relative;
+    display:block;
+    float:left;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding-bottom:10px;
+    overflow:hidden;
+    border:none;
+    border-bottom:1px solid #ccc;
+   
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+#TumSayfaCerceveAlaniIciHesapMenuleriDengelemeAlani{
+    position:relative;
+    display:block;
+    float:left;
+    width:-webkit-calc(100% + 10px);
+    width:-moz-calc(100% + 10px);
+    width:-o-calc(100% + 10px);
+    width:-ms-calc(100% + 10px);
+    min-width:calc(100% + 10px);
+    min-width:-webkit-calc(100% + 10px);
+    min-width:-moz-calc(100% + 10px);
+    min-width:-o-calc(100% + 10px);
+    min-width:-ms-calc(100% + 10px);
+    min-width:calc(100% + 10px);
+    max-width:-webkit-calc(100% + 10px);
+    max-width:-moz-calc(100% + 10px);
+    max-width:-o-calc(100% + 10px);
+    max-width:-ms-calc(100% + 10px);
+    max-width:calc(100% + 10px);
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    top:0;
+    left:-5px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciHesapMenusuSinirlamaAlani{
+    display:inline-block;
+    float:left;
+    height:auto;
+    margin:0 auto;
+    margin-top:10px;
+    margin-left:5px;
+    padding:0;
+    padding:5px;
+    overflow:hidden;
+    border:none;
+    border:1px solid #ccc;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+    transition:all 500ms ease-in-out;
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition:all 500ms ease-in-out;
+    -o-transition:all 500ms ease-in-out;
+    -ms-transition:all 500ms ease-in-out;
+}
+@media only screen and (min-width:768px){
+  .TumSayfaCerceveAlaniIciHesapMenusuSinirlamaAlani{
+        width:-webkit-calc(20% - 22px);
+        width:-moz-calc(20% - 22px);
+        width:-o-calc(20% - 22px);
+        width:-ms-calc(20% - 22px);
+        width:calc(20% - 22px);
+        min-width:-webkit-calc(20% - 22px);
+        min-width:-moz-calc(20% - 22px);
+        min-width:-o-calc(20% - 22px);
+        min-width:-ms-calc(20% - 22px);
+        min-width:calc(20% - 22px);
+        max-width:-webkit-calc(20% - 22px);
+        max-width:-moz-calc(20% - 22px);
+        max-width:-o-calc(20% - 22px);
+        max-width:-ms-calc(20% - 22px);
+        max-width:calc(20% - 22px);
+    }
+  }  
+@media only screen and (max-width:767px){
+  .TumSayfaCerceveAlaniIciHesapMenusuSinirlamaAlani{
+        width:-webkit-calc(100% - 32px);
+        width:-moz-calc(100% - 32px);
+        width:-o-calc(100% - 32px);
+        width:-ms-calc(100% - 32px);
+        width:calc(100% - 32px);
+        min-width:-webkit-calc(100% - 32px);
+        min-width:-moz-calc(100% - 32px);
+        min-width:-o-calc(100% - 32px);
+        min-width:-ms-calc(100% - 32px);
+        min-width:calc(100% - 32px);
+        max-width:-webkit-calc(100% - 32px);
+        max-width:-moz-calc(100% - 32px);
+        max-width:-o-calc(100% - 32px);
+        max-width:-ms-calc(100% - 32px);
+        max-width:calc(100% - 32px);
+    }    
+}
+.TumSayfaCerceveAlaniIciHesapMenusuSinirlamaAlani:hover{
+    display:inline-block;
+    float:left;
+    height:auto;
+    margin:0 auto;
+    margin-top:10px;
+    margin-left:5px;
+    padding:0;
+    padding:5px;
+    overflow:hidden;
+    border:none;
+    border:1px solid #999;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+    transition:all 500ms ease-in-out;
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition:all 500ms ease-in-out;
+    -o-transition:all 500ms ease-in-out;
+    -ms-transition:all 500ms ease-in-out;
+}
+.TumSayfaCerceveAlaniIciHesapTumMenulerinAlani{
+    display:block;
+    width:auto;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+.TumSayfaCerceveAlaniIciHesapTumMenuleriMetni{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    background-color:#fff;
+    border:none;
+    outline:none;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:120%;
+    text-align:center;
+    text-decoration:none;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesapTumMenuleriMetni{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesapTumMenuleriMetni{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesapTumMenuleriMetni{
+        font-size:12px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesapTumMenuleriMetni a{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+}
+.TumSayfaCerceveAlaniIciHesapTumMenuleriMetni a:link, .TumSayfaCerceveAlaniIciHesapTumMenuleriMetni a:visited, .TumSayfaCerceveAlaniIciHesapTumMenuleriMetni a:active{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+}
+.TumSayfaCerceveAlaniIciHesapTumMenuleriMetni a:hover{
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#383434;
+    font-style:normal;
+    font-variant:normal;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+}
+.TamSayfaCerceveAlaniIciHesabimSayfasiSiparislerKapsamaAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+  .TamSayfaCerceveAlaniIciHesabimSayfasiSiparislerKapsamaAlani{
+    padding-top:20px;
+  }  
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparislerKapsamaAlani{
+        padding-top:18px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparislerKapsamaAlani{
+        padding-top:16px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparislerKapsamaAlani{
+        padding-top:14px;
+    }
+}
+@media only screen and (max-width:575px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparislerKapsamaAlani{
+        padding-top:12px;
+    }
+}
+.TamSayfaCerceveAlaniIciHesabimSayfasiSiparislerAlani{
+    position:relative;
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    border-bottom:1px solid #ccc;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    vertical-align:top;
+    text-decoration:none;
+}
+@media only screen and (min-width:1200px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparislerAlani{
+       font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparislerAlani{
+       font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparislerAlani{
+       font-size:12px;
+    }
+}
+.TamSayfaCerceveAlaniIciHesabimSayfasiSiparisNumarasiBaslikMetni{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding:10px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
+    color:#08a;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparisNumarasiBaslikMetni{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparisNumarasiBaslikMetni{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparisNumarasiBaslikMetni{
+        font-size:12px;
+    }
+}
+.TamSayfaCerceveAlaniIciHesabimSayfasiSiparisBilgileriMetni{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding:10px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparisBilgileriMetni{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparisBilgileriMetni{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TamSayfaCerceveAlaniIciHesabimSayfasiSiparisBilgileriMetni{
+        font-size:12px;
+    }
+}
+.TamSayfaCerceveAlaniIciHesabimSayfasiSiparisBilgileriMetni a{
+    font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+}
+.TamSayfaCerceveAlaniIciHesabimSayfasiSiparisBilgileriMetni a:active, .TamSayfaCerceveAlaniIciHesabimSayfasiSiparisBilgileriMetni a:visited, .TamSayfaCerceveAlaniIciHesabimSayfasiSiparisBilgileriMetni a:link{
+    font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+}
+ .TamSayfaCerceveAlaniIciHesabimSayfasiSiparisBilgileriMetni a:hover{
+    font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
+    color:rgb(47, 213, 235);
+    font-style:normal;
+    font-variant:normal;
+    line-height:120%;
+    text-align:left;
+    text-decoration:underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
