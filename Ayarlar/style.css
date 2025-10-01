@@ -9524,44 +9524,6 @@ footer{
     
     } 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .TumSayfaCerceveAlaniIciHesabimSiparisDetayFiyatAlani{
     display:inline-block;
     margin:0 auto;
@@ -9647,13 +9609,77 @@ footer{
     text-align:left;
     } 
 }
-
-
-
-
-   
-
-
+.FormElemanlariYorumTextArealari{
+    display:block;
+    float:left;
+    width:-webkit-calc(100% - 22px);
+    width:-moz-calc(100% - 22px);
+    width:-o-calc(100% - 22px);
+    width:-ms-calc(100% - 22px);
+    min-width:calc(100% - 22px);
+    min-width:-webkit-calc(100% - 22px);
+    min-width:-moz-calc(100% - 22px);
+    min-width:-o-calc(100% - 22px);
+    min-width:-ms-calc(100% - 22px);
+    min-width:calc(100% - 22px);
+    max-width:-webkit-calc(100% - 22px);
+    max-width:-moz-calc(100% - 22px);
+    max-width:-o-calc(100% - 22px);
+    max-width:-ms-calc(100% - 22px);
+    max-width:calc(100% - 22px);
+    height:226px;
+    min-height:226px;
+    max-height:226px;
+    margin:0 auto;
+    padding:0;
+    padding-right:10px;
+    padding-left:10px;
+    background-color:#fff;
+    border:none;
+    border:1px solid #ccc;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    -o-border-radius:3px;
+    -ms-border-radius:3px;
+    border-radius:3px;
+    outline:none;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-decoration:none;
+    text-align:left;
+    vertical-align:middle;
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition:all 500ms ease-in-out;
+    -o-transition:all 500ms ease-in-out;
+    -ms-transition:all 500ms ease-in-out;
+    transition:all 500ms ease-in-out;
+}
+.FormElemanlariYorumTextArealari:focus{
+    border:1px solid #3d3d3d;
+    -webkit-transition:all 3s ease-in-out;
+    -moz-transition:all 3s ease-in-out;
+    -o-transition:all 3s ease-in-out;
+    -ms-transition:all 3s ease-in-out;
+    transition:all 3s ease-in-out;
+}
+@media only screen and (min-width:1200px){
+    .FormElemanlariYorumTextArealari{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .FormElemanlariYorumTextArealari{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .FormElemanlariYorumTextArealari{
+        font-size:12px;
+    }
+}
 
 
 
