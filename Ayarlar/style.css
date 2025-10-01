@@ -9085,6 +9085,445 @@ footer{
     text-align:left;
     text-decoration:underline;
 }
+.TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunlerAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    border-bottom:1px solid #ccc;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunlerAlani{
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunlerAlani{
+        padding-top:9px;
+        padding-bottom:9px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunlerAlani{
+        padding-top:8px;
+        padding-bottom:8px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunlerAlani{
+        padding-top:7px;
+        padding-bottom:7px;
+    }
+}
+@media only screen and (max-width:575px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunlerAlani{
+        padding-top:6px;
+        padding-bottom:6px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunResmiAlani{
+    display:inline-block;
+    float:left;
+    width:60px;
+    min-width:60px;
+    max-width:60px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunResmiAlani{
+        margin-right:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunResmiAlani{
+        margin-right:9px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunResmiAlani{
+        margin-right:8px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunResmiAlani img{
+    display:block;
+    float:left;
+    width:60px;
+    min-width:60px;
+    max-width:60px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+}
+.TumSayfaCerceveAlaniIciHesabimSiparisDetayYorumYapResmiAlani{
+    display:inline-block;
+    float:left;
+    width:20px;
+    min-width:20px;
+    max-width:20px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    vertical-align:top;
+}
+@media only screen and (max-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayYorumYapResmiAlani{
+    margin-right:10px;       
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayYorumYapResmiAlani{
+        margin-right:9px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayYorumYapResmiAlani{
+        margin-right:8px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSiparisDetayYorumYapResmiAlani img{
+    display: block;
+    float:left;
+    width:20px;
+    min-width:20px;
+    max-width:20px;
+    height:20px;
+    min-height:20px;
+    max-height:20px;
+    margin:0 auto;
+    margin-top:30px;
+    padding:0;
+    border:none;
+    outline:none;
+    cursor:pointer;
+}
+.TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdiAlani{
+    display:inline-block;
+    float:left;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family:Arial, "Helvetica Neue" ,Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdiAlani{
+        width:-webkit-calc(100% - 295px);
+        width:-moz-calc(100% - 295px);
+        width:-o-calc(100% - 295px);
+        width:-ms-calc(100% - 295px);
+        width:calc(100% - 295px);
+        min-width:-webkit-calc(100% - 295px);
+        min-width:-moz-calc(100% - 295px);
+        min-width:-o-calc(100% - 295px);
+        min-width:-ms-calc(100% - 295px);
+        min-width:calc(100% - 295px);
+        max-width:-webkit-calc(100% - 295px);
+        max-width:-moz-calc(100% - 295px);
+        max-width:-o-calc(100% - 295px);
+        max-width:-ms-calc(100% - 295px);
+        max-width:calc(100% - 295px);
+        height:80px;
+        min-height:80px;
+        max-height:80px;
+        margin-left:6px;
+        margin-right:10px;
+        line-height:80px;
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdiAlani{
+        width:-webkit-calc(100% - 281px);
+        width:-moz-calc(100% - 281px);
+        width:-o-calc(100% - 281px);
+        width:-ms-calc(100% - 281px);
+        width:calc(100% - 281px);
+        min-width:-webkit-calc(100% - 281px);
+        min-width:-moz-calc(100% - 281px);
+        min-width:-o-calc(100% - 281px);
+        min-width:-ms-calc(100% - 281px);
+        min-width:calc(100% - 281px);
+        max-width:-webkit-calc(100% - 281px);
+        max-width:-moz-calc(100% - 281px);
+        max-width:-o-calc(100% - 281px);
+        max-width:-ms-calc(100% - 281px);
+        max-width:calc(100% - 281px);
+        height:80px;
+        min-height:80px;
+        max-height:80px;
+        margin-left:5px;
+        margin-right:9px; 
+        line-height:80px;
+        font-size:13px;   
+        padding-top:1px;   
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdiAlani{
+        width:-webkit-calc(100% - 267px);
+        width:-moz-calc(100% - 267px);
+        width:-o-calc(100% - 267px);
+        width:-ms-calc(100% - 267px);
+        width:calc(100% - 267px);
+        min-width:-webkit-calc(100% - 267px);
+        min-width:-moz-calc(100% - 267px);
+        min-width:-o-calc(100% - 267px);
+        min-width:-ms-calc(100% - 267px);
+        min-width:calc(100% - 267px);
+        max-width:-webkit-calc(100% - 267px);
+        max-width:-moz-calc(100% - 267px);
+        max-width:-o-calc(100% - 267px);
+        max-width:-ms-calc(100% - 267px);
+        max-width:calc(100% - 267px);
+        height:80px;
+        min-height:80px;
+        max-height:80px;
+        margin-left:4px;
+        margin-right:8px;
+        line-height:80px; 
+        font-size:12px;      
+        padding-top:1px;    
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdiAlani{
+        width:-webkit-calc(100% - 96px);
+        width:-moz-calc(100% - 96px);
+        width:-o-calc(100% - 96px);
+        width:-ms-calc(100% - 96px);
+        width:calc(100% - 96px);
+        min-width:-webkit-calc(100% - 96px);
+        min-width:-moz-calc(100% - 96px);
+        min-width:-o-calc(100% - 96px);
+        min-width:-ms-calc(100% - 96px);
+        min-width:calc(100% - 96px);
+        max-width:-webkit-calc(100% - 96px);
+        max-width:-moz-calc(100% - 96px);
+        max-width:-o-calc(100% - 96px);
+        max-width:-ms-calc(100% - 96px);
+        max-width:calc(100% - 96px);
+        height:40px;
+        min-height:40px;
+        max-height:40px;
+        line-height:40px; 
+        font-size:12px;         
+    }
+}
+@media only screen and (max-width:575px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdiAlani{
+        width:-webkit-calc(100% - 96px);
+        width:-moz-calc(100% - 96px);
+        width:-o-calc(100% - 96px);
+        width:-ms-calc(100% - 96px);
+        width:calc(100% - 96px);
+        min-width:-webkit-calc(100% - 96px);
+        min-width:-moz-calc(100% - 96px);
+        min-width:-o-calc(100% - 96px);
+        min-width:-ms-calc(100% - 96px);
+        min-width:calc(100% - 96px);
+        max-width:-webkit-calc(100% - 96px);
+        max-width:-moz-calc(100% - 96px);
+        max-width:-o-calc(100% - 96px);
+        max-width:-ms-calc(100% - 96px);
+        max-width:calc(100% - 96px);
+        line-height:40px;  
+        font-size:12px;       
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdediAlani{
+    display:inline-block;
+    float:left;
+    height:20px;
+    min-height:20px;
+    max-height:20px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdediAlani{
+        float:left;
+        width:75px;
+        min-width:75px;
+        max-width:75px;
+        height:80px;
+        min-height:80px;
+        max-height:80px;
+        line-height:80px;
+        margin-right:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+        .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdediAlani{
+        float:left;
+        width:70px;
+        min-width:70px;
+        max-width:70px;
+        height:80px;
+        min-height:80px;
+        max-height:80px;
+        line-height:80px;
+        margin-right:9px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+        .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdediAlani{
+        float:left;
+        width:65px;
+        min-width:65px;
+        max-width:65px;
+        height:80px;
+        min-height:80px;
+        max-height:80px;
+        line-height:80px;
+        margin-right:8px;
+    }
+}
+@media only screen and (max-width:767px){
+  .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdediAlani{
+        float:left;
+        width:65px;
+        min-width:65px;
+        max-width:65px;
+        height:40px;
+        min-height:40px;
+        max-height:40px;
+        line-height:40px;
+        margin-right:8px;
+    }  
+}
+.TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdediRakamiAlani{
+    display:inline-block;
+    float:left;
+    height:20px;
+    min-height:20px;
+    max-height:20px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+  .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdediRakamiAlani{
+    float:left;
+    width:75px;
+    min-width:75px;
+    max-width:75px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    line-height:80px;
+    font-size:14px;
+    text-align:right;
+    }  
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+   .TumSayfaCerceveAlaniIciHesabimSiparisDetayFiyatAlani{
+    float:left;
+    width:70px;
+    min-width:70px;
+    max-width:70px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    line-height:80px;
+    font-size:13px;
+    text-align:right;
+    }     
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdediRakamiAlani{
+    float:left;
+    width:65px;
+    min-width:65px;
+    max-width:65px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    line-height:80px;
+    font-size:13px;
+    text-align:right;
+    } 
+}
+@media only screen and (max-width:767px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayUrunAdediRakamiAlani{
+    float:left;
+    width:60px;
+    min-width:60px;
+    max-width:60px;
+    height:80px;
+    min-height:70px;
+    max-height:70px;
+    line-height:70px;
+    font-size:12px;
+    text-align:left;
+    
+    } 
+}
 
 
 
@@ -9098,6 +9537,121 @@ footer{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.TumSayfaCerceveAlaniIciHesabimSiparisDetayFiyatAlani{
+    display:inline-block;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    text-decoration:none;
+}
+@media only screen and (min-width:1200px){
+  .TumSayfaCerceveAlaniIciHesabimSiparisDetayFiyatAlani{
+    float:left;
+    width:100px;
+    min-width:100px;
+    max-width:100px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    line-height:80px;
+    font-size:14px;
+    text-align:right;
+    }  
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+   .TumSayfaCerceveAlaniIciHesabimSiparisDetayFiyatAlani{
+    float:left;
+    width:95px;
+    min-width:95px;
+    max-width:95px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    line-height:80px;
+    font-size:13px;
+    text-align:right;
+    }     
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayFiyatAlani{
+    float:left;
+    width:90px;
+    min-width:90px;
+    max-width:90px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    line-height:80px;
+    font-size:13px;
+    text-align:right;
+    } 
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayFiyatAlani{
+    float:left;
+    width:85px;
+    min-width:85px;
+    max-width:85px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    line-height:80px;
+    font-size:12px;
+    text-align:right;
+    } 
+}
+@media only screen and (max-width:575px){
+    .TumSayfaCerceveAlaniIciHesabimSiparisDetayFiyatAlani{
+    float:left;
+    width:80px;
+    min-width:80px;
+    max-width:80px;
+    height:80px;
+    min-height:80px;
+    max-height:80px;
+    line-height:80px;
+    font-size:12px;
+    text-align:left;
+    } 
+}
+
+
+
+
+   
 
 
 
