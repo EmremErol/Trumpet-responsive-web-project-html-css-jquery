@@ -9680,6 +9680,162 @@ footer{
         font-size:12px;
     }
 }
+.TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarKapsamaAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarKapsamaAlani{
+        padding-top:6px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarKapsamaAlani{
+        padding-top:5px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarKapsamaAlani{
+        padding-top:4px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarKapsamaAlani{
+        padding-top:3px;
+    }
+}
+@media only screen and (max-width:575px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarKapsamaAlani{
+        padding-top:2px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarAlani{
+    position:relative;
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    border-bottom:1px solid #ccc;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarAlani{
+        font-size:14px;
+        padding-bottom:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarAlani{
+        font-size:13px;
+        padding-bottom:9px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarAlani{
+        font-size:12px;
+        padding-bottom:8px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarBaslikMetni{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding-top:10px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
+    color:#f90;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarBaslikMetni{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarBaslikMetni{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarBaslikMetni{
+        font-size:12px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarIcerikMetni{
+   display:block;
+   width:100%;
+   min-width:100%;
+   max-width:100%;
+   height:auto;
+   margin:0 auto;
+   padding:0;
+   overflow:hidden;
+   border:none;
+   outline:none;
+   background-color:#fff;
+    font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:none;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top; 
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarIcerikMetni{
+        font-size: 14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarIcerikMetni{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarIcerikMetni{
+        font-size:12px;
+    }
+}
+
+
+
+
 
 
 
