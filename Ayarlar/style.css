@@ -9796,17 +9796,17 @@ footer{
     }
 }
 .TumSayfaCerceveAlaniIciHesabimSayfasiYorumlarIcerikMetni{
-   display:block;
-   width:100%;
-   min-width:100%;
-   max-width:100%;
-   height:auto;
-   margin:0 auto;
-   padding:0;
-   overflow:hidden;
-   border:none;
-   outline:none;
-   background-color:#fff;
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
     font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
     color:#646464;
     font-style:none;
@@ -9958,60 +9958,332 @@ footer{
     border:none;
     outline:none;
  }
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdreslerKapsamaAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdreslerKapsamaAlani{
+        padding:6px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdreslerKapsamaAlani{
+        padding:8px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdreslerKapsamaAlani{
+        padding:6px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdreslerKapsamaAlani{
+        padding:4px;
+    }
+}
+@media only screen and (max-width:575px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdreslerKapsamaAlani{
+        padding:2px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdreslerBaslikAlani{
+    display: block;
+    width: -webkit-calc(100% - 10px);
+    width: -moz-calc(100% - 10px);
+    width: -o-calc(100% - 10px);
+    width: -ms-calc(100% - 10px);
+    min-width: calc(100% - 10px);
+    min-width: -webkit-calc(100% - 10px);
+    min-width: -moz-calc(100% - 10px);
+    min-width: -o-calc(100% - 10px);
+    min-width: -ms-calc(100% - 10px);
+    min-width: calc(100% - 10px);
+    max-width: -webkit-calc(100% - 10px);
+    max-width: -moz-calc(100% - 10px);
+    max-width: -o-calc(100% - 10px);
+    max-width: -ms-calc(100% - 10px);
+    max-width: calc(100% - 10px);
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding:10px 5px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#f1f1f1;
+    font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
+    color:#646464;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdreslerBaslikAlani{
+        font-size:14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdreslerBaslikAlani{
+        font-size:13px;
+    }
+}
+@media only screen and (max-width:991px){
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdreslerBaslikAlani{
+        font-size:12px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriDetayAlani {
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    border-bottom:1px solid #ccc;
+    outline: none;
+    background-color: #fff;
+    text-align:left;
+    text-decoration: none;
+    vertical-align: top;
+}
+@media only screen and (min-width:1200px) {
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriDetayAlani {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
 
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriDetayAlani {
+        padding-top: 9px;
+        padding-bottom: 9px;
+    }
+}
 
+@media only screen and (max-width:991px) {
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriDetayAlani {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriMetni {
+    display: block;
+    width: -webkit-calc(100% - 10px);
+    width: -moz-calc(100% - 10px);
+    width: -o-calc(100% - 10px);
+    width: -ms-calc(100% - 10px);
+    min-width: calc(100% - 10px);
+    min-width: -webkit-calc(100% - 10px);
+    min-width: -moz-calc(100% - 10px);
+    min-width: -o-calc(100% - 10px);
+    min-width: -ms-calc(100% - 10px);
+    min-width: calc(100% - 10px);
+    max-width: -webkit-calc(100% - 10px);
+    max-width: -moz-calc(100% - 10px);
+    max-width: -o-calc(100% - 10px);
+    max-width: -ms-calc(100% - 10px);
+    max-width: calc(100% - 10px);
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    padding-bottom:2px;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #646464;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 120%;
+    text-align: left;
+    text-decoration: none;
+    vertical-align: top;
+}
+@media only screen and (min-width:1200px) {
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriMetni {
+        font-size: 14px;
+    }
+}
 
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriMetni {
+        font-size: 13px;
+    }
+}
 
+@media only screen and (max-width:991px) {
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriMetni {
+        font-size: 12px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriGuncellemeSilAlani {
+    display: block;
+    width: -webkit-calc(100% - 10px);
+    width: -moz-calc(100% - 10px);
+    width: -o-calc(100% - 10px);
+    width: -ms-calc(100% - 10px);
+    min-width: calc(100% - 10px);
+    min-width: -webkit-calc(100% - 10px);
+    min-width: -moz-calc(100% - 10px);
+    min-width: -o-calc(100% - 10px);
+    min-width: -ms-calc(100% - 10px);
+    min-width: calc(100% - 10px);
+    max-width: -webkit-calc(100% - 10px);
+    max-width: -moz-calc(100% - 10px);
+    max-width: -o-calc(100% - 10px);
+    max-width: -ms-calc(100% - 10px);
+    max-width: calc(100% - 10px);
+    height: 20px;
+    min-height:20px;
+    max-height:20px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariAlani {
+    display:inline-block;
+    float:left;
+    width:20px;
+    min-width:20px;
+    max-width:20px;
+    height:23px;
+    min-height:23px;
+    max-height:23px;
+    margin: 0 auto;
+    margin-right:10px;
+    padding: 0;
+    padding-bottom: 2px;
+    overflow: hidden;
+    border: none;
+    border:1px solid #ccc;
+    outline: none;
+    background-color: #f1f1f1;
+    text-align: left;
+    text-decoration: none;
+    vertical-align: top;
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariAlani:hover{
+    border:1px;
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariAlani img{
+    display:block;
+    width: 20px;
+    min-width: 20px;
+    max-width: 20px;
+    height: 20px;
+    min-height: 20px;
+    max-height: 20px;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+    cursor:pointer;
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariMetni {
+    display: inline-block;
+    float:left;
+    width: auto;
+    height: 20px;
+    min-height:20px;
+    max-height:20px;
+    margin: 0 auto;
+    margin-right:10px;
+    padding: 0;
+    padding-bottom: 2px;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #646464;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 120%;
+    text-align: left;
+    text-decoration: none;
+    vertical-align: top;
+    cursor:pointer;
+}
+@media only screen and (min-width:1200px) {
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariMetni {
+        font-size: 14px;
+        margin-top: 2px;
+    }
+}
 
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariMetni {
+        font-size: 13px;
+        margin-top: 3px;
+    }
+}
 
+@media only screen and (max-width:991px) {
+    .TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariMetni {
+        font-size: 12px;
+        margin-top: 4px;
+    }
+}
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariMetni a {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #646464;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 120%;
+    text-align: left;
+    text-decoration: none;
+}
 
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariMetni a:active,
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariMetni a:visited,
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariMetni a:link {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #646464;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 120%;
+    text-align: left;
+    text-decoration: none;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.TumSayfaCerceveAlaniIciHesabimSayfasiAdresBilgileriIslemIconlariMetni a:hover {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#000;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 120%;
+    text-align: left;
+    text-decoration: underline;
+}
 
 
 
