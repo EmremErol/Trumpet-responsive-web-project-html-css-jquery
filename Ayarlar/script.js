@@ -84,27 +84,17 @@ $.SSSIceriginiGoster  = function(ElemanID){
 	$(".TamSafyfaCerceveAlaniIciSSSSoruIcerigiAlani").slideUp();
 	$(IslenecekAlan).parent().find(".TamSafyfaCerceveAlaniIciSSSSoruIcerigiAlani").slideToggle();
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* SSS İÇERİK GÖSTER / GİZLE <<<<<<*/
 
+/* ÜRÜN DETAY SAYFASI RESİM DEĞİŞTİRME İŞLEMİ >>>>*/ 
+$.UrunDetaySayfasiIcinResimDegistir = function(ResimDegeri){
+	var DegisecekResimDosyasiYolu = "Resimler/UrunResimleri/Erkek/";
+	var ResimOlustur = DegisecekResimDosyasiYolu + ResimDegeri;
 
+	$("#BuyukResim").attr("src", ResimOlustur);
+
+}
+/* ÜRÜN DETAY SAYFASI RESİM DEĞİŞTİRME İŞLEMİ <<<<*/ 
 
 
 

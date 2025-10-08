@@ -11339,7 +11339,7 @@ footer{
     position:relative;
     display:block;
     float:left;
-    width:-webkit-calc(100% - 20px);
+    width:-webkit-calc(100% + 20px);
     width:-moz-calc(100% + 20px);
     width:-o-calc(100% + 20px);
     width:-ms-calc(100% + 20px);
@@ -11801,6 +11801,835 @@ footer{
         font-size: 12px;
     }
 }
+#UrunDetaySayfalariResimUrunBaslikFiyatVeIslemAlanlari{
+    position:relative;
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+#UrunDetaySayfalariResimlerAlani{
+    position:relative;
+    display:inline-block;
+    float:left;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px){
+    #UrunDetaySayfalariResimlerAlani{
+    width:-webkit-calc(30% - 10px);
+    width:-moz-calc(30% - 10px);
+    width:-o-calc(30% - 10px);
+    width:-ms-calc(30% - 10px);
+    min-width:calc(30% - 10px);
+    min-width:-webkit-calc(30% - 10px);
+    min-width:-moz-calc(30% - 10px);
+    min-width:-o-calc(30% - 10px);
+    min-width:-ms-calc(30% - 10px);
+    min-width:calc(30% - 10px);
+    max-width:-webkit-calc(30% - 10px);
+    max-width:-moz-calc(30% - 10px);
+    max-width:-o-calc(30% - 10px);
+    max-width:-ms-calc(30% - 10px);
+    max-width:calc(30% - 10px);
+    padding-right:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #UrunDetaySayfalariResimlerAlani{
+    width:-webkit-calc(32% - 9px);
+    width:-moz-calc(32% - 9px);
+    width:-o-calc(32% - 9px);
+    width:-ms-calc(32% - 9px);
+    min-width:calc(32% - 9px);
+    min-width:-webkit-calc(32% - 9px);
+    min-width:-moz-calc(32% - 9px);
+    min-width:-o-calc(32% - 9px);
+    min-width:-ms-calc(32% - 9px);
+    min-width:calc(32% - 9px);
+    max-width:-webkit-calc(32% - 9px);
+    max-width:-moz-calc(32% - 9px);
+    max-width:-o-calc(32% - 9px);
+    max-width:-ms-calc(32% - 9px);
+    max-width:calc(32% - 9px);
+    padding-right:9px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    #UrunDetaySayfalariResimlerAlani{
+    width:-webkit-calc(34% - 8px);
+    width:-moz-calc(34% - 8px);
+    width:-o-calc(34% - 8px);
+    width:-ms-calc(34% - 8px);
+    min-width:calc(34% - 8px);
+    min-width:-webkit-calc(34% - 8px);
+    min-width:-moz-calc(34% - 8px);
+    min-width:-o-calc(34% - 8px);
+    min-width:-ms-calc(34% - 8px);
+    min-width:calc(34% - 8px);
+    max-width:-webkit-calc(34% - 8px);
+    max-width:-moz-calc(34% - 8px);
+    max-width:-o-calc(34% - 8px);
+    max-width:-ms-calc(34% - 8px);
+    max-width:calc(34% - 8px);
+    padding-right:8px;
+    }
+}
+@media only screen and (max-width:767px){
+    #UrunDetaySayfalariResimlerAlani{
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+    }
+}
+#UrunDetaySayfalariBuyukResimlerAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+#UrunDetaySayfalariBuyukResimDisCercevesi{
+    display:block;
+    width:-webkit-calc(100% - 8px);
+    width:-moz-calc(100% - 8px);
+    width:-o-calc(100% - 8px);
+    width:-ms-calc(100% - 8px);
+    min-width:calc(100% - 8px);
+    min-width:-webkit-calc(100% - 8px);
+    min-width:-moz-calc(100% - 8px);
+    min-width:-o-calc(100% - 8px);
+    min-width:-ms-calc(100% - 8px);
+    min-width:calc(100% - 8px);
+    max-width:-webkit-calc(100% - 8px);
+    max-width:-moz-calc(100% - 8px);
+    max-width:-o-calc(100% - 8px);
+    max-width:-ms-calc(100% - 8px);
+    max-width:calc(100% - 8px);
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    padding:3px;
+    overflow:hidden;
+    border:none;
+    border:1px solid #ccc;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+#UrunDetaySayfalariBuyukResimDisCercevesi img{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    border:none;
+    outline:none;
+}
+#UrunDetaySayfalariKucukResimlerAlani {
+    position: relative;
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 5px;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    vertical-align: top;
+}
+#UrunDetaySayfalariKucukResimlerDengelemeAlani {
+    position: relative;
+    display: block;
+    float: left;
+    width: -webkit-calc(100% + 4px);
+    width: -moz-calc(100% + 4px);
+    width: -o-calc(100% + 4px);
+    width: -ms-calc(100% + 4px);
+    min-width: calc(100% + 4px);
+    min-width: -webkit-calc(100% + 4px);
+    min-width: -moz-calc(100% + 4px);
+    min-width: -o-calc(100% + 4px);
+    min-width: -ms-calc(100% + 4px);
+    min-width: calc(100% + 4px);
+    max-width: -webkit-calc(100% + 4px);
+    max-width: -moz-calc(100% + 4px);
+    max-width: -o-calc(100% + 4px);
+    max-width: -ms-calc(100% + 4px);
+    max-width: calc(100% + 4px);
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    top: 0;
+    left: -2px;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    vertical-align: top;
+}
+.UrunDetaySayfalariKucukResimSinirlamaAlani{
+    display:inline-block;
+    float:left;
+    width: -webkit-calc(25% - 4px);
+    width: -moz-calc(25% - 4px);
+    width: -o-calc(25% - 4px);
+    width: -ms-calc(25% - 4px);
+    min-width: calc(25% - 4px);
+    min-width: -webkit-calc(25% - 4px);
+    min-width: -moz-calc(25% - 4px);
+    min-width: -o-calc(25% - 4px);
+    min-width: -ms-calc(25% - 4px);
+    min-width: calc(25% - 4px);
+    max-width: -webkit-calc(25% - 4px);
+    max-width: -moz-calc(25% - 4px);
+    max-width: -o-calc(25% - 4px);
+    max-width: -ms-calc(25% - 4px);
+    max-width: calc(25% - 4px);
+    margin: 0 auto;
+    margin-left:2px;
+    margin-right:2px;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    vertical-align: top;
+}
+
+.UrunDetaySayfalariKucukResimDisCercevesi {
+    display: block;
+    width: -webkit-calc(100% - 2px);
+    width: -moz-calc(100% - 2px);
+    width: -o-calc(100% - 2px);
+    width: -ms-calc(100% - 2px);
+    min-width: calc(100% - 2px);
+    min-width: -webkit-calc(100% - 2px);
+    min-width: -moz-calc(100% - 2px);
+    min-width: -o-calc(100% - 2px);
+    min-width: -ms-calc(100% - 2px);
+    min-width: calc(100% - 2px);
+    max-width: -webkit-calc(100% - 2px);
+    max-width: -moz-calc(100% - 2px);
+    max-width: -o-calc(100% - 2px);
+    max-width: -ms-calc(100% - 2px);
+    max-width: calc(100% - 2px);
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    border: 1px solid #ccc;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    vertical-align: top;
+}
+.UrunDetaySayfalariKucukResimDisCercevesi img {
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+    outline: none;
+    cursor:pointer;
+}
+#UrunDetaySayfalariBaslikVeIslemlerAlani{
+    position:relative;
+    display:inline-block;
+    float:left;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+@media only screen and (min-width:1200px) {
+    #UrunDetaySayfalariBaslikVeIslemlerAlani {
+    width: 70%;
+    min-width: 70%;
+    max-width: 70%;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    #UrunDetaySayfalariBaslikVeIslemlerAlani {
+    width: 68%;
+    min-width: 68%;
+    max-width: 68%;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px) {
+    #UrunDetaySayfalariBaslikVeIslemlerAlani {
+    width: 64%;
+    min-width: 64%;
+    max-width: 64%;
+    }
+}
+@media only screen and (max-width:767px) {
+    #UrunDetaySayfalariBaslikVeIslemlerAlani {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    padding-top:5px;
+    }
+}
+#UrunDetaySayfalariUrunBasligiAlani{
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    color:#646464;
+    font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:600;
+    line-height:120%;
+    text-align:left;
+    text-decoration:none;
+    vertical-align:top
+}
+@media only screen and (min-width:1200px) {
+    #UrunDetaySayfalariUrunBasligiAlani {
+        font-size:18px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    #UrunDetaySayfalariUrunBasligiAlani {
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width:991px) {
+    #UrunDetaySayfalariUrunBasligiAlani {
+        font-size: 14px;
+    }
+}
+#UrunDetaySayfalariUrunMarkasiAlani {
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top:3px;
+    padding: 0;
+    padding-bottom:10px;
+    overflow: hidden;
+    border: none;
+    border-bottom:1px solid #ccc;
+    outline: none;
+    background-color: #fff;
+    color: #f90;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 120%;
+    text-align: left;
+    text-decoration: none;
+    vertical-align: top
+}
+@media only screen and (min-width:1200px) {
+    #UrunDetaySayfalariUrunMarkasiAlani {
+        font-size: 14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    #UrunDetaySayfalariUrunMarkasiAlani {
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width:991px) {
+    #UrunDetaySayfalariUrunMarkasiAlani {
+        font-size: 12px;
+    }
+}
+#UrunDetaySayfalariPaylasVeSepeteEkleButonlariAlani{
+    display: block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:35px;
+    min-height:35px;
+    max-height:35px;
+    margin:0 auto;
+    margin-top:10px;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color: #fff;
+    text-align:center;
+    vertical-align:top;
+    text-decoration:none;
+}
+#UrunDetaySayfalariFacebookPaylasButonuAlani{
+    display: inline-block;
+    float:left;
+    width:24px;
+    min-width:24px;
+    max-width:24px;
+    height:auto;
+    margin:0 auto;
+    margin-top:10px;
+    margin-right:5px;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color: #fff;
+    text-align:center;
+    vertical-align:top;
+    text-decoration:none;  
+    cursor:pointer;
+}
+#UrunDetaySayfalariFacebookPaylasButonuAlani img{
+    display:block;
+    width: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    height: 24px;
+    min-height: 24px;
+    max-height: 24px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    vertical-align: top;
+    text-decoration: none;
+    cursor: pointer;
+}
+#UrunDetaySayfalariTwitterPaylasButonuAlani {
+    display: inline-block;
+    float: left;
+    width: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-right: 5px;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    vertical-align: top;
+    text-decoration: none;
+    cursor: pointer;
+}
+#UrunDetaySayfalariTwitterPaylasButonuAlani img {
+    display: block;
+    width: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    height: 24px;
+    min-height: 24px;
+    max-height: 24px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    vertical-align: top;
+    text-decoration: none;
+    cursor: pointer;
+}
+#UrunDetaySayfalariFavoriListesineEkleButonuAlani {
+    display: inline-block;
+    float: left;
+    width: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-right: 5px;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    vertical-align: top;
+    text-decoration: none;
+    cursor: pointer;
+}
+#UrunDetaySayfalariFavoriListesineEkleButonuAlani img {
+    display: block;
+    width: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    height: 24px;
+    min-height: 24px;
+    max-height: 24px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    vertical-align: top;
+    text-decoration: none;
+    cursor: pointer;
+}
+#UrunDetaySayfalariSepeteEkleButonuAlani{
+    display:inline-block;
+    float:right;
+    width:-webkit-calc(100% - 87px);
+    width:-moz-calc(100% - 87px);
+    width:-o-calc(100% - 87px);
+    width:-ms-calc(100% - 87px);
+    width:calc(100% - 87px);
+    min-width:-webkit-calc(100% - 87px);
+    min-width:-moz-calc(100% - 87px);
+    min-width:-o-calc(100% - 87px);
+    min-width:-ms-calc(100% - 87px);
+    min-width:calc(100% - 87px);
+    max-width:-webkit-calc(100% - 87px);
+    max-width:-moz-calc(100% - 87px);
+    max-width:-o-calc(100% - 87px);
+    max-width:-ms-calc(100% - 87px);
+    max-width:calc(100% - 87px);
+    height:35px;
+    min-height:35px;
+    max-height:35px;
+    margin:0 auto;
+    margin-top: 10px;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    -webkit-border-radius:3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+    outline:none;
+    background-color:#08c;
+    text-align:center;
+    vertical-align:top;
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+}
+#UrunDetaySayfalariSepeteEkleButonuAlani:hover {
+    display: inline-block;
+    float: right;
+    width: -webkit-calc(100% - 87px);
+    width: -moz-calc(100% - 87px);
+    width: -o-calc(100% - 87px);
+    width: -ms-calc(100% - 87px);
+    width: calc(100% - 87px);
+    min-width: -webkit-calc(100% - 87px);
+    min-width: -moz-calc(100% - 87px);
+    min-width: -o-calc(100% - 87px);
+    min-width: -ms-calc(100% - 87px);
+    min-width: calc(100% - 87px);
+    max-width: -webkit-calc(100% - 87px);
+    max-width: -moz-calc(100% - 87px);
+    max-width: -o-calc(100% - 87px);
+    max-width: -ms-calc(100% - 87px);
+    max-width: calc(100% - 87px);
+    height: 35px;
+    min-height: 35px;
+    max-height: 35px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+    outline: none;
+    background-color: #0af;
+    text-align: center;
+    vertical-align: top;
+    -webkit-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+}
+#UrunDetaySayfalariSepeteEkleButonuIconu{
+    display:inline-block;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    margin-right:10px;
+    margin-top:2px;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    text-align: left;
+    text-decoration: none;
+    vertical-align: top;
+}
+#UrunDetaySayfalariSepeteEkleButonuIconu img {
+    display:block;
+    width: 21px;
+    min-width: 21px;
+    max-width: 21px;
+    height: 20px;
+    min-height: 20px;
+    max-height: 20px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    text-align: left;
+    text-decoration: none;
+    vertical-align: top;
+}
+#UrunDetaySayfalariSepeteEkleButonuMetni {
+    display:inline-block;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color:transparent;
+    color: #fff;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 120%;
+    text-align: left;
+    text-decoration: none;
+    vertical-align: top;
+}
+@media only screen and (min-width:1200px) {
+    #UrunDetaySayfalariSepeteEkleButonuMetni {
+        font-size: 18px;
+        padding-top: 3px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    #UrunDetaySayfalariSepeteEkleButonuMetni {
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width:991px) {
+    #UrunDetaySayfalariSepeteEkleButonuMetni {
+        font-size: 14px;
+    }
+}
+#UrunDetaySayfalariUrunVaryantVeFiyatAlani{
+    position:relative;
+    display:block;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    margin-top:10px;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:center;
+    vertical-align:top;
+}
+#UrunDetaySayfalariUrunVaryantlarAlani{
+    height:35px;
+    min-height:35px;
+    max-height:35px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:left;
+    vertical-align:top; 
+}
+@media only screen and (min-width:1200px){
+    #UrunDetaySayfalariUrunVaryantlarAlani{
+        display:inline-block;
+        float:left;
+        width:300px;
+        min-width:300px;
+        max-width:300px;
+        margin-right:10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #UrunDetaySayfalariUrunVaryantlarAlani{
+        display:inline-block;
+        float: left;
+        width:250px;
+        min-width:250px;
+        max-width:250px;
+        margin-right:10px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    #UrunDetaySayfalariUrunVaryantlarAlani{
+        display:inline-block;
+        float: left;
+        width:200px;
+        min-width:200px;
+        max-width:200px;
+        margin-right:10px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    #UrunDetaySayfalariUrunVaryantlarAlani{
+        display:block;
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+        margin-right:10px;
+
+    }
+}
+@media only screen and (max-width:575px){
+    #UrunDetaySayfalariUrunVaryantlarAlani{
+        display:block;
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+        margin-right:10px;
+    }
+}
+.FormElemanlariSelectleri {
+    height: 35px;
+    min-height: 35px;
+    max-height: 35px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+    text-align: left;
+    vertical-align: top;
+}
+@media only screen and (min-width:1200px) {
+.FormElemanlariSelectleri {
+        display: inline-block;
+        float: left;
+        width: 300px;
+        min-width: 300px;
+        max-width: 300px;
+        margin-right: 10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .FormElemanlariSelectleri {
+        display: inline-block;
+        float: left;
+        width: 250px;
+        min-width: 250px;
+        max-width: 250px;
+        margin-right: 10px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .FormElemanlariSelectleri {
+        display: inline-block;
+        float: left;
+        width: 200px;
+        min-width: 200px;
+        max-width: 200px;
+        margin-right: 10px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .FormElemanlariSelectleri{
+        display: block;
+        width: 100%;
+        min-width: 100%;
+        max-width: 100%;
+        margin-right: 10px;
+
+    }
+}
+@media only screen and (max-width:575px) {
+    .FormElemanlariSelectleri {
+        display: block;
+        width: 100%;
+        min-width: 100%;
+        max-width: 100%;
+        margin-right: 10px;
+    }
+}
+#UrunDetaySayfalariUrunFiyatlandirmaAlani{
+    display:inline-block;
+    height:35px;
+    min-height:35px;
+    max-height:35px;
+    margin:0 auto;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    text-align:right;
+    vertical-align:top; 
+}
 
 
 
@@ -11809,21 +12638,897 @@ footer{
 
 
 
+@media only screen and (min-width:1200px){
+    #UrunDetaySayfalariUrunFiyatlandirmaAlani{
+        display:inline-block;
+        float:right;
+        width: -webkit-calc(100% - 310px);
+        width: -moz-calc(100% - 310px);
+        width: -o-calc(100% - 310px);
+        width: -ms-calc(100% - 310px);
+        width: calc(100% - 310px);
+        min-width: -webkit-calc(100% - 310px);
+        min-width: -moz-calc(100% - 310px);
+        min-width: -o-calc(100% - 310px);
+        min-width: -ms-calc(100% - 310px);
+        min-width: calc(100% - 310px);
+        max-width: -webkit-calc(100% - 310px);
+        max-width: -moz-calc(100% - 310px);
+        max-width: -o-calc(100% - 310px);
+        max-width: -ms-calc(100% - 310px);
+        max-width: calc(100% - 310px);
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    #UrunDetaySayfalariUrunFiyatlandirmaAlani{
+        display:inline-block;
+        float:right;
+        width: -webkit-calc(100% - 260px);
+        width: -moz-calc(100% - 260px);
+        width: -o-calc(100% - 260px);
+        width: -ms-calc(100% - 260px);
+        width: calc(100% - 260px);
+        min-width: -webkit-calc(100% - 260px);
+        min-width: -moz-calc(100% - 260px);
+        min-width: -o-calc(100% - 260px);
+        min-width: -ms-calc(100% - 260px);
+        min-width: calc(100% - 260px);
+        max-width: -webkit-calc(100% - 260px);
+        max-width: -moz-calc(100% - 260px);
+        max-width: -o-calc(100% - 260px);
+        max-width: -ms-calc(100% - 260px);
+        max-width: calc(100% - 260px);
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    #UrunDetaySayfalariUrunFiyatlandirmaAlani{
+        display:inline-block;
+        float:right;
+        width: -webkit-calc(100% - 210px);
+        width: -moz-calc(100% - 210px);
+        width: -o-calc(100% - 210px);
+        width: -ms-calc(100% - 210px);
+        width: calc(100% - 210px);
+        min-width: -webkit-calc(100% - 210px);
+        min-width: -moz-calc(100% - 210px);
+        min-width: -o-calc(100% - 210px);
+        min-width: -ms-calc(100% - 210px);
+        min-width: calc(100% - 210px);
+        max-width: -webkit-calc(100% - 210px);
+        max-width: -moz-calc(100% - 210px);
+        max-width: -o-calc(100% - 210px);
+        max-width: -ms-calc(100% - 210px);
+        max-width: calc(100% - 210px);
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    #UrunDetaySayfalariUrunFiyatlandirmaAlani{
+        display:block;
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+        margin-top:10px;
+    }
+}
+@media only screen and (max-width:575px){
+    #UrunDetaySayfalariUrunFiyatlandirmaAlani{
+        display:block;
+        width:100%;
+        min-width:100%;
+        max-width:100%;
+        margin-top: 10px;
+    }
+}
+.UrunDetaySayfasiUrunFiyatiAlani{
+    display:inline-block;
+    float:right;
+    width:auto;
+    height:auto;
+    margin:0 auto;
+    margin-right:10px;
+    padding:0;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    background-color:#fff;
+    color:#646464;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:800;
+    line-height:120%;
+    text-align:right;
+    vertical-align:top;
+    text-decoration:none;
+}
 
 
+@media only screen and (min-width:1200px){
+    .UrunDetaySayfasiUrunFiyatiAlani{
+        font-size:26px;
+        padding-top:3px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .UrunDetaySayfasiUrunFiyatiAlani{
+        font-size: 24px;
+        padding-top: 3px;
+    }
+}
+@media only screen and (max-width:991px){
+    .UrunDetaySayfasiUrunFiyatiAlani{
+        font-size:22px;
+        padding-top:3px;
+    }
+}
+#UrunDetaySayfalariUrununKargoIslemleriDetayAlani{
+	display:block;
+	width:100%;
+	min-width:100%;
+	max-width:100%;
+	height:auto;
+	margin:0 auto;
+	margin-top:10px;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	text-align:left;
+	text-decoration:none;
+	vertical-align:top;
+}
+#UrunDetaySayfalariUrununKargoIslemleriResimAlani{
+	display:inline-block;
+	float:left;
+	width:20px;
+	min-width:20px;
+	max-width:20px;
+	height:auto;
+	margin:0 auto;
+	margin-right:10px;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	text-align:left;
+	text-decoration:none;
+}
+#UrunDetaySayfalariUrununKargoIslemleriResimAlani img{
+	display:block;
+	width:20px;
+	min-width:20px;
+	max-width:20px;
+	height:20px;
+	min-height:20px;
+	max-height:20px;
+	margin:0 auto;
+	padding:0;
+	border:none;
+	outline:none;
+}
+#UrunDetaySayfalariUrununKargoIslemleriMetni{
+	display:inline-block;
+	float:right;
+	width:-webkit-calc(100% - 30px);
+	width:-moz-calc(100% - 30px);
+	width:-o-calc(100% - 30px);
+	width:-ms-calc(100% - 30px);
+	width:calc(100% - 30px);
+	min-width:-webkit-calc(100% - 30px);
+	min-width:-moz-calc(100% - 30px);
+	min-width:-o-calc(100% - 30px);
+	min-width:-ms-calc(100% - 30px);
+	min-width:calc(100% - 30px);
+	max-width:-webkit-calc(100% - 30px);
+	max-width:-moz-calc(100% - 30px);
+	max-width:-o-calc(100% - 30px);
+	max-width:-ms-calc(100% - 30px);
+	max-width:calc(100% - 30px);
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	font-family:Arial, "Helvatica Neue", Helvatica, sans-serif;
+	color:#646464;
+	line-height:120%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-align:left;
+	text-decoration:none;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#UrunDetaySayfalariUrununKargoIslemleriMetni{
+		font-size:14px;
+		padding-top:1px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#UrunDetaySayfalariUrununKargoIslemleriMetni{
+		font-size:13px;
+		padding-top:2px;
+	}
+}
+@media only screen and (min-width:768px) and (max-width:991px){ /* M */
+	#UrunDetaySayfalariUrununKargoIslemleriMetni{
+		font-size:12px;
+		padding-top:3px;
+	}
+}
+@media only screen and (max-width:767px){ /* S, XS */
+	#UrunDetaySayfalariUrununKargoIslemleriMetni{
+		font-size:12px;
+		padding-top:3px;
+	}
+}
+#UrunDetaySayfalariUrununHizliGonderiDetayAlani{
+	display:block;
+	width:100%;
+	min-width:100%;
+	max-width:100%;
+	height:auto;
+	margin:0 auto;
+	margin-top:10px;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	text-align:left;
+	text-decoration:none;
+	vertical-align:top;
+}
+#UrunDetaySayfalariUrununHizliGonderiResimAlani{
+	display:inline-block;
+	float:left;
+	width:20px;
+	min-width:20px;
+	max-width:20px;
+	height:auto;
+	margin:0 auto;
+	margin-right:10px;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	text-align:left;
+	text-decoration:none;
+}
+#UrunDetaySayfalariUrununHizliGonderiResimAlani img{
+	display:block;
+	width:20px;
+	min-width:20px;
+	max-width:20px;
+	height:20px;
+	min-height:20px;
+	max-height:20px;
+	margin:0 auto;
+	padding:0;
+	border:none;
+	outline:none;
+}
+#UrunDetaySayfalariUrununHizliGonderiMetni{
+	display:inline-block;
+	float:right;
+	width:-webkit-calc(100% - 30px);
+	width:-moz-calc(100% - 30px);
+	width:-o-calc(100% - 30px);
+	width:-ms-calc(100% - 30px);
+	width:calc(100% - 30px);
+	min-width:-webkit-calc(100% - 30px);
+	min-width:-moz-calc(100% - 30px);
+	min-width:-o-calc(100% - 30px);
+	min-width:-ms-calc(100% - 30px);
+	min-width:calc(100% - 30px);
+	max-width:-webkit-calc(100% - 30px);
+	max-width:-moz-calc(100% - 30px);
+	max-width:-o-calc(100% - 30px);
+	max-width:-ms-calc(100% - 30px);
+	max-width:calc(100% - 30px);
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	font-family:Arial, "Helvatica Neue", Helvatica, sans-serif;
+	color:#646464;
+	line-height:120%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-align:left;
+	text-decoration:none;
 
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#UrunDetaySayfalariUrununHizliGonderiMetni{
+		font-size:14px;
+		padding-top:1px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#UrunDetaySayfalariUrununHizliGonderiMetni{
+		font-size:13px;
+		padding-top:2px;
+	}
+}
+@media only screen and (min-width:768px) and (max-width:991px){ /* M */
+	#UrunDetaySayfalariUrununHizliGonderiMetni{
+		font-size:12px;
+		padding-top:3px;
+	}
+}
+@media only screen and (max-width:767px){ /* S, XS */
+	#UrunDetaySayfalariUrununHizliGonderiMetni{
+		font-size:12px;
+		padding-top:3px;
+	}
+}
+#UrunDetaySayfalariUrununKrediKartiDetayAlani {
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #FFF;
+    text-align: left;
+    text-decoration: none;
+    vertical-align: top;
+}
+#UrunDetaySayfalariUrununKrediKartiResimAlani{
+	display:inline-block;
+	float:left;
+	width:20px;
+	min-width:20px;
+	max-width:20px;
+	height:auto;
+	margin:0 auto;
+	margin-right:10px;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	text-align:left;
+	text-decoration:none;
+}
+#UrunDetaySayfalariUrununKrediKartiResimAlani img{
+	display:block;
+	width:20px;
+	min-width:20px;
+	max-width:20px;
+	height:20px;
+	min-height:20px;
+	max-height:20px;
+	margin:0 auto;
+	padding:0;
+	border:none;
+	outline:none;
+}
+#UrunDetaySayfalariUrununKrediKartiMetni{
+	display:inline-block;
+	float:right;
+	width:-webkit-calc(100% - 30px);
+	width:-moz-calc(100% - 30px);
+	width:-o-calc(100% - 30px);
+	width:-ms-calc(100% - 30px);
+	width:calc(100% - 30px);
+	min-width:-webkit-calc(100% - 30px);
+	min-width:-moz-calc(100% - 30px);
+	min-width:-o-calc(100% - 30px);
+	min-width:-ms-calc(100% - 30px);
+	min-width:calc(100% - 30px);
+	max-width:-webkit-calc(100% - 30px);
+	max-width:-moz-calc(100% - 30px);
+	max-width:-o-calc(100% - 30px);
+	max-width:-ms-calc(100% - 30px);
+	max-width:calc(100% - 30px);
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	font-family:Arial, "Helvatica Neue", Helvatica, sans-serif;
+	color:#646464;
+	line-height:120%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-align:left;
+	text-decoration:none;
 
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#UrunDetaySayfalariUrununKrediKartiMetni{
+		font-size:14px;
+		padding-top:1px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#UrunDetaySayfalariUrununKrediKartiMetni{
+		font-size:13px;
+		padding-top:2px;
+	}
+}
+@media only screen and (min-width:768px) and (max-width:991px){ /* M */
+	#UrunDetaySayfalariUrununKrediKartiMetni{
+		font-size:12px;
+		padding-top:3px;
+	}
+}
+@media only screen and (max-width:767px){ /* S, XS */
+	#UrunDetaySayfalariUrununKrediKartiMetni{
+		font-size:12px;
+		padding-top:3px;
+	}
+}
+#UrunDetaySayfalariUrununMobilOdemeDetayAlani{
+	display:block;
+	width:100%;
+	min-width:100%;
+	max-width:100%;
+	height:auto;
+	margin:0 auto;
+	margin-top:10px;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	text-align:left;
+	text-decoration:none;
+	vertical-align:top;
+}
+#UrunDetaySayfalariUrununMobilOdemeResimAlani{
+	display:inline-block;
+	float:left;
+	width:20px;
+	min-width:20px;
+	max-width:20px;
+	height:auto;
+	margin:0 auto;
+	margin-right:10px;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	text-align:left;
+	text-decoration:none;
+}
 
+#UrunDetaySayfalariUrununMobilOdemeResimAlani img{
+	display:block;
+	width:20px;
+	min-width:20px;
+	max-width:20px;
+	height:20px;
+	min-height:20px;
+	max-height:20px;
+	margin:0 auto;
+	padding:0;
+	border:none;
+	outline:none;
+}
+#UrunDetaySayfalariUrununMobilOdemeMetni{
+	display:inline-block;
+	float:right;
+	width:-webkit-calc(100% - 30px);
+	width:-moz-calc(100% - 30px);
+	width:-o-calc(100% - 30px);
+	width:-ms-calc(100% - 30px);
+	width:calc(100% - 30px);
+	min-width:-webkit-calc(100% - 30px);
+	min-width:-moz-calc(100% - 30px);
+	min-width:-o-calc(100% - 30px);
+	min-width:-ms-calc(100% - 30px);
+	min-width:calc(100% - 30px);
+	max-width:-webkit-calc(100% - 30px);
+	max-width:-moz-calc(100% - 30px);
+	max-width:-o-calc(100% - 30px);
+	max-width:-ms-calc(100% - 30px);
+	max-width:calc(100% - 30px);
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	font-family:Arial, "Helvatica Neue", Helvatica, sans-serif;
+	color:#646464;
+	line-height:120%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-align:left;
+	text-decoration:none;
 
-
-
-
-
-
-
-
-
-
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#UrunDetaySayfalariUrununMobilOdemeMetni{
+		font-size:14px;
+		padding-top:1px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#UrunDetaySayfalariUrununMobilOdemeMetni{
+		font-size:13px;
+		padding-top:2px;
+	}
+}
+@media only screen and (min-width:768px) and (max-width:991px){ /* M */
+	#UrunDetaySayfalariUrununMobilOdemeMetni{
+		font-size:12px;
+		padding-top:3px;
+	}
+}
+@media only screen and (max-width:767px){ /* S, XS */
+	#UrunDetaySayfalariUrununMobilOdemeMetni{
+		font-size:12px;
+		padding-top:3px;
+	}
+}
+#UrunDetaySayfalariUrununBankaHavalesiDetayAlani{
+	display:block;
+	width:100%;
+	min-width:100%;
+	max-width:100%;
+	height:auto;
+	margin:0 auto;
+	margin-top:10px;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	text-align:left;
+	text-decoration:none;
+	vertical-align:top;
+}
+#UrunDetaySayfalariUrununBankaHavalesiResimAlani{
+	display:inline-block;
+	float:left;
+	width:20px;
+	min-width:20px;
+	max-width:20px;
+	height:auto;
+	margin:0 auto;
+	margin-right:10px;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	text-align:left;
+	text-decoration:none;
+}
+#UrunDetaySayfalariUrununBankaHavalesiResimAlani img{
+	display:block;
+	width:20px;
+	min-width:20px;
+	max-width:20px;
+	height:20px;
+	min-height:20px;
+	max-height:20px;
+	margin:0 auto;
+	padding:0;
+	border:none;
+	outline:none;
+}
+#UrunDetaySayfalariUrununBankaHavalesiMetni{
+	display:inline-block;
+	float:right;
+	width:-webkit-calc(100% - 30px);
+	width:-moz-calc(100% - 30px);
+	width:-o-calc(100% - 30px);
+	width:-ms-calc(100% - 30px);
+	width:calc(100% - 30px);
+	min-width:-webkit-calc(100% - 30px);
+	min-width:-moz-calc(100% - 30px);
+	min-width:-o-calc(100% - 30px);
+	min-width:-ms-calc(100% - 30px);
+	min-width:calc(100% - 30px);
+	max-width:-webkit-calc(100% - 30px);
+	max-width:-moz-calc(100% - 30px);
+	max-width:-o-calc(100% - 30px);
+	max-width:-ms-calc(100% - 30px);
+	max-width:calc(100% - 30px);
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	font-family:Arial, "Helvatica Neue", Helvatica, sans-serif;
+	color:#646464;
+	line-height:120%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-align:left;
+	text-decoration:none;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#UrunDetaySayfalariUrununBankaHavalesiMetni{
+		font-size:14px;
+		padding-top:1px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#UrunDetaySayfalariUrununBankaHavalesiMetni{
+		font-size:13px;
+		padding-top:2px;
+	}
+}
+@media only screen and (min-width:768px) and (max-width:991px){ /* M */
+	#UrunDetaySayfalariUrununBankaHavalesiMetni{
+		font-size:12px;
+		padding-top:3px;
+	}
+}
+@media only screen and (max-width:767px){ /* S, XS */
+	#UrunDetaySayfalariUrununBankaHavalesiMetni{
+		font-size:12px;
+		padding-top:3px;
+	}
+}
+#UrunDetaySayfalariUrununAciklamaAlani {
+    position: relative;
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: noe;
+    background-color: #FFF;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+}
+#UrunDetaySayfalariUrununAciklamaBaslikMetni{
+	display:block;
+	width:-webkit-calc(100% - 10px);
+	width:-moz-calc(100% - 10px);
+	width:-o-calc(100% - 10px);
+	width:-ms-calc(100% - 10px);
+	width:calc(100% - 10px);
+	min-width:-webkit-calc(100% - 10px);
+	min-width:-moz-calc(100% - 10px);
+	min-width:-o-calc(100% - 10px);
+	min-width:-ms-calc(100% - 10px);
+	min-width:calc(100% - 10px);
+	max-width:-webkit-calc(100% - 10px);
+	max-width:-moz-calc(100% - 10px);
+	max-width:-o-calc(100% - 10px);
+	max-width:-ms-calc(100% - 10px);
+	max-width:calc(100% - 10px);
+	height:auto;
+	margin:0 auto;
+	margin-top:10px;
+	padding:0;
+	padding:10px 5px;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#F90;
+	font-family:Arial, "Helvatica Neue", Helvatica, sans-serif;
+	color:#FFF;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:120%;
+	text-align:left;
+	text-decoration:none;
+	vertical-align:top;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#UrunDetaySayfalariUrununAciklamaBaslikMetni{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#UrunDetaySayfalariUrununAciklamaBaslikMetni{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M, S, XS */
+	#UrunDetaySayfalariUrununAciklamaBaslikMetni{
+		font-size:12px;
+	}
+}
+#UrunDetaySayfalariUrununAciklamaIcerikMetni{
+	display:block;
+	width:-webkit-calc(100% - 10px);
+	width:-moz-calc(100% - 10px);
+	width:-o-calc(100% - 10px);
+	width:-ms-calc(100% - 10px);
+	width:calc(100% - 10px);
+	min-width:-webkit-calc(100% - 10px);
+	min-width:-moz-calc(100% - 10px);
+	min-width:-o-calc(100% - 10px);
+	min-width:-ms-calc(100% - 10px);
+	min-width:calc(100% - 10px);
+	max-width:-webkit-calc(100% - 10px);
+	max-width:-moz-calc(100% - 10px);
+	max-width:-o-calc(100% - 10px);
+	max-width:-ms-calc(100% - 10px);
+	max-width:calc(100% - 10px);
+	height:auto;
+	margin:0 auto;
+	margin-top:10px;
+	padding:0;
+	padding:10px 5px;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#FFF;
+	font-family:Arial, "Helvatica Neue", Helvatica, sans-serif;
+	color:#646464;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:120%;
+	text-align:left;
+	text-decoration:none;
+	vertical-align:top;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#UrunDetaySayfalariUrununAciklamaIcerikMetni{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#UrunDetaySayfalariUrununAciklamaIcerikMetni{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M, S, XS */
+	#UrunDetaySayfalariUrununAciklamaIcerikMetni{
+		font-size:12px;
+	}
+}
+#UrunDetaySayfalariUrununYorumlariAlani{
+	position:relative;
+	display:block;
+	width:100%;
+	min-width:100%;
+	max-width:100%;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	overflow:hidden;
+	border:none;
+	outline:noe;
+	background-color:#FFF;
+	text-align:center;
+	text-decoration:none;
+	vertical-align:top;
+}
+#UrunDetaySayfalariUrununYorumlariBaslikMetni{
+	display:block;
+	width:-webkit-calc(100% - 10px);
+	width:-moz-calc(100% - 10px);
+	width:-o-calc(100% - 10px);
+	width:-ms-calc(100% - 10px);
+	width:calc(100% - 10px);
+	min-width:-webkit-calc(100% - 10px);
+	min-width:-moz-calc(100% - 10px);
+	min-width:-o-calc(100% - 10px);
+	min-width:-ms-calc(100% - 10px);
+	min-width:calc(100% - 10px);
+	max-width:-webkit-calc(100% - 10px);
+	max-width:-moz-calc(100% - 10px);
+	max-width:-o-calc(100% - 10px);
+	max-width:-ms-calc(100% - 10px);
+	max-width:calc(100% - 10px);
+	height:auto;
+	margin:0 auto;
+	margin-top:10px;
+	padding:0;
+	padding:10px 5px;
+	overflow:hidden;
+	border:none;
+	outline:none;
+	background-color:#F90;
+	font-family:Arial, "Helvatica Neue", Helvatica, sans-serif;
+	color:#FFF;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:120%;
+	text-align:left;
+	text-decoration:none;
+	vertical-align:top;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#UrunDetaySayfalariUrununYorumlariBaslikMetni{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#UrunDetaySayfalariUrununYorumlariBaslikMetni{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M, S, XS */
+	#UrunDetaySayfalariUrununYorumlariBaslikMetni{
+		font-size:12px;
+	}
+}
+.UrunDetaySayfalariUrununYorumlariIcerikMetni{
+	display:block;
+	width:-webkit-calc(100% - 10px);
+	width:-moz-calc(100% - 10px);
+	width:-o-calc(100% - 10px);
+	width:-ms-calc(100% - 10px);
+	width:calc(100% - 10px);
+	min-width:-webkit-calc(100% - 10px);
+	min-width:-moz-calc(100% - 10px);
+	min-width:-o-calc(100% - 10px);
+	min-width:-ms-calc(100% - 10px);
+	min-width:calc(100% - 10px);
+	max-width:-webkit-calc(100% - 10px);
+	max-width:-moz-calc(100% - 10px);
+	max-width:-o-calc(100% - 10px);
+	max-width:-ms-calc(100% - 10px);
+	max-width:calc(100% - 10px);
+	height:auto;
+	margin:0 auto;
+	margin-top:10px;
+	padding:0;
+	padding:5px 5px 10px;
+	overflow:hidden;
+	border:none;
+	border-bottom:1px dashed #CCC;
+	outline:none;
+	background-color:#FFF;
+	font-family:Arial, "Helvatica Neue", Helvatica, sans-serif;
+	color:#646464;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:120%;
+	text-align:left;
+	text-decoration:none;
+	vertical-align:top;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	.UrunDetaySayfalariUrununYorumlariIcerikMetni{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	.UrunDetaySayfalariUrununYorumlariIcerikMetni{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M, S, XS */
+	.UrunDetaySayfalariUrununYorumlariIcerikMetni{
+		font-size:12px;
+	}
+}
 
 
 
