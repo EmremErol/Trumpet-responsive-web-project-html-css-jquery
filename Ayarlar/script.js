@@ -74,7 +74,7 @@ var DokumanGenisligi		=	$(window).outerWidth();
     })
 
 /* MAİN ALANI İÇİN ÜSTTEN BOŞLUK HESPLAMALARI <<<<*/
-})
+
 /* SSS İÇERİK GÖSTER / GİZLE >>>>*/
 
 $.SSSIceriginiGoster  = function(ElemanID){
@@ -96,9 +96,55 @@ $.UrunDetaySayfasiIcinResimDegistir = function(ResimDegeri){
 }
 /* ÜRÜN DETAY SAYFASI RESİM DEĞİŞTİRME İŞLEMİ <<<<*/ 
 
+/* SLAYT ALANI >>>>> */
+	$(function(){
+		var SlaytElementi					=	$(".SlaytAlaniKapsayicisi");
+		var SlaytListeOlusturmaElementi		=	SlaytElementi.find(".SlaytAlaniResimleri");
+		var	SlaytListesiUzunlugu			=	SlaytListeOlusturmaElementi.find(".SlaytResmi").length;
+		var	SlaytIcinDokumanGenisligi		=	SlaytElementi.outerWidth();
+		var	ToplamGenislik					=	SlaytListesiUzunlugu * SlaytIcinDokumanGenisligi;
+		var	ResimSirasi						=	0;
+		var	KayacakAlan						=	0;
+		
+		SlaytListeOlusturmaElementi.find(".SlaytResmi").width(SlaytIcinDokumanGenisligi).end().width(ToplamGenislik);
 
+			$(window).resize(function(){
+				SlaytElementi					=	$(".SlaytAlaniKapsayicisi");
+				SlaytListeOlusturmaElementi		=	SlaytElementi.find(".SlaytAlaniResimleri");
+				SlaytListesiUzunlugu			=	SlaytListeOlusturmaElementi.find(".SlaytResmi").length;
+				SlaytIcinDokumanGenisligi		=	SlaytElementi.outerWidth();
+				ToplamGenislik					=	SlaytListesiUzunlugu * SlaytIcinDokumanGenisligi;
+				
+				SlaytListeOlusturmaElementi.find(".SlaytResmi").width(SlaytIcinDokumanGenisligi).end().width(ToplamGenislik).css("margin-left", "-" + (ResimSirasi * SlaytIcinDokumanGenisligi) + "px");
+		});
 
+		$.OtomatikDegistir			=	function(){
+			if(ResimSirasi < SlaytListesiUzunlugu - 1){
+			   ResimSirasi++;
+			   KayacakAlan			=	"-" + (ResimSirasi * SlaytIcinDokumanGenisligi) + "px";
+			}else{
+				ResimSirasi			=	0;
+				KayacakAlan			=	0;
+			}
+			
+			SlaytListeOlusturmaElementi.stop().animate({
+				marginLeft:KayacakAlan
+			}, 500, function(){
+				SlaytElementi					=	$(".SlaytAlaniKapsayicisi");
+				SlaytListeOlusturmaElementi		=	SlaytElementi.find(".SlaytAlaniResimleri");
+				SlaytListesiUzunlugu			=	SlaytListeOlusturmaElementi.find(".SlaytResmi").length;
+				SlaytIcinDokumanGenisligi		=	SlaytElementi.outerWidth();
+				ToplamGenislik					=	SlaytListesiUzunlugu * SlaytIcinDokumanGenisligi;
+				
+				SlaytListeOlusturmaElementi.find(".SlaytResmi").width(SlaytIcinDokumanGenisligi).end().width(ToplamGenislik).css("margin-left", "-" + (ResimSirasi * SlaytIcinDokumanGenisligi) + "px");
+			});
+		}
+		
+		var	SlaytOynat		=	setInterval("$.OtomatikDegistir()", 2000);
+	});
 
+        /* SLAYT ALANI<<<<*/
+});
 
 
 
