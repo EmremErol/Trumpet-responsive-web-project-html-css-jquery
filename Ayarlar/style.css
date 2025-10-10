@@ -14822,27 +14822,248 @@ footer{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#TamSayfaDortluBannerAlani {
+    position: relative;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #FFF;
+    text-align: center;
+    vertical-align: top;
+}
+@media only screen and (min-width:1200px) {/* XL */
+    #TamSayfaDortluBannerAlani {
+        width: 1175px;
+        min-width: 1175px;
+        max-width: 1175px;
+    }
+}
+@media only screen and (max-width:1199px) {/* L, M, S, XS */
+    #TamSayfaDortluBannerAlani {
+        width: 100%;
+        min-width: 100%;
+        max-width: 100%;
+    }
+}
+#TamSayfaDortluBannerDengelemeAlani {
+    position: relative;
+    display: block;
+    float: left;
+    width: -webkit-calc(100% + 20px);
+    width: -moz-calc(100% + 20px);
+    width: -o-calc(100% + 20px);
+    width: -ms-calc(100% + 20px);
+    width: calc(100% + 20px);
+    min-width: -webkit-calc(100% + 20px);
+    min-width: -moz-calc(100% + 20px);
+    min-width: -o-calc(100% + 20px);
+    min-width: -ms-calc(100% + 20px);
+    min-width: calc(100% + 20px);
+    max-width: -webkit-calc(100% + 20px);
+    max-width: -moz-calc(100% + 20px);
+    max-width: -o-calc(100% + 20px);
+    max-width: -ms-calc(100% + 20px);
+    max-width: calc(100% + 20px);
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    top: 0;
+    left: -10px;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #FFF;
+    text-align: center;
+    vertical-align: top;
+}
+.TamSayfaDortluBannerSinirlamaAlani {
+    display: inline-block;
+    float: left;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #FFF;
+    text-align: center;
+    vertical-align: top;
+}
+@media only screen and (min-width:992px) {/* XL, L */
+    .TamSayfaDortluBannerSinirlamaAlani {
+        width: -webkit-calc(25% - 20px);
+        width: -moz-calc(25% - 20px);
+        width: -o-calc(25% - 20px);
+        width: -ms-calc(25% - 20px);
+        width: calc(25% - 20px);
+        min-width: -webkit-calc(25% - 20px);
+        min-width: -moz-calc(25% - 20px);
+        min-width: -o-calc(25% - 20px);
+        min-width: -ms-calc(25% - 20px);
+        min-width: calc(25% - 20px);
+        max-width: -webkit-calc(25% - 20px);
+        max-width: -moz-calc(25% - 20px);
+        max-width: -o-calc(25% - 20px);
+        max-width: -ms-calc(25% - 20px);
+        max-width: calc(25% - 20px);
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px) {/* M */
+    .TamSayfaDortluBannerSinirlamaAlani {
+        width: -webkit-calc(50% - 20px);
+        width: -moz-calc(50% - 20px);
+        width: -o-calc(50% - 20px);
+        width: -ms-calc(50% - 20px);
+        width: calc(50% - 20px);
+        min-width: -webkit-calc(50% - 20px);
+        min-width: -moz-calc(50% - 20px);
+        min-width: -o-calc(50% - 20px);
+        min-width: -ms-calc(50% - 20px);
+        min-width: calc(50% - 20px);
+        max-width: -webkit-calc(50% - 20px);
+        max-width: -moz-calc(50% - 20px);
+        max-width: -o-calc(50% - 20px);
+        max-width: -ms-calc(50% - 20px);
+        max-width: calc(50% - 20px);
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+@media only screen and (max-width:767px) {/* S, XS */
+    .TamSayfaDortluBannerSinirlamaAlani {
+        width: -webkit-calc(100% - 20px);
+        width: -moz-calc(100% - 20px);
+        width: -o-calc(100% - 20px);
+        width: -ms-calc(100% - 20px);
+        width: calc(100% - 20px);
+        min-width: -webkit-calc(100% - 20px);
+        min-width: -moz-calc(100% - 20px);
+        min-width: -o-calc(100% - 20px);
+        min-width: -ms-calc(100% - 20px);
+        min-width: calc(100% - 20px);
+        max-width: -webkit-calc(100% - 20px);
+        max-width: -moz-calc(100% - 20px);
+        max-width: -o-calc(100% - 20px);
+        max-width: -ms-calc(100% - 20px);
+        max-width: calc(100% - 20px);
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+.TamSayfaDortluBannerResmi {
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    padding: 3px;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #FFF;
+    font-size: 0;
+    text-align: center;
+    vertical-align: top;
+}
+.TamSayfaDortluBannerResmi img {
+    display: block;
+    width: 75px;
+    min-width: 75px;
+    max-width: 75px;
+    height: 75px;
+    min-height: 75px;
+    max-height: 75px;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+    outline: none;
+}
+.TamSayfaDortluBannerBaslikMetni {
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 5px;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #FFF;
+    font-family: Arial, "Helvatica Neue", Helvatica, sans-serif;
+    color: #08A;
+    line-height: 120%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+}
+@media only screen and (min-width:1200px) {/* XL */
+    .TamSayfaDortluBannerBaslikMetni {
+        font-size: 14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px) {/* L */
+    .TamSayfaDortluBannerBaslikMetni {
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width:991px) {/* M, S, XS */
+    .TamSayfaDortluBannerBaslikMetni {
+        font-size: 12px;
+    }
+}
+.TamSayfaDortluBannerIcerikMetni {
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 5px;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: #FFF;
+    font-family: Arial, "Helvatica Neue", Helvatica, sans-serif;
+    color: #646464;
+    line-height: 120%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+}
+@media only screen and (min-width:1200px) {/* XL */
+    .TamSayfaDortluBannerIcerikMetni {
+        font-size: 14px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px) {/* L */
+    .TamSayfaDortluBannerIcerikMetni {
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width:991px) { /* M, S, XS */
+    .TamSayfaDortluBannerIcerikMetni {
+        font-size: 12px;
+    }
+}
 
 
 
